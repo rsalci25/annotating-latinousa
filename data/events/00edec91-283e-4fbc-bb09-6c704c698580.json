@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "980a9fd4-eff3-4a2e-966c-bc9f87c27891": {
+      "label": "010803lusapgm434",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://utexas.box.com/shared/static/co9mk39hihzpqxz12u56f5n3d3fegcwl.mp3",
+      "duration": 1744
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 434",
+  "created_at": "2026-10-29T10:28:30.945Z",
+  "created_by": "rsalci25",
+  "updated_at": "2026-10-29T10:28:30.945Z",
+  "updated_by": "rsalci25"
+}

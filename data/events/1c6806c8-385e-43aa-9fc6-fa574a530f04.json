@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "846f603b-a62c-40d0-b4eb-f42b7c2c2ce0": {
+      "label": "010914pgm440",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://utexas.box.com/shared/static/swesjl0grrkgdgqvesc62exutiw0knkl.mp3",
+      "duration": 1745
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 440",
+  "created_at": "2026-10-29T10:28:30.945Z",
+  "created_by": "rsalci25",
+  "updated_at": "2026-10-29T10:28:30.945Z",
+  "updated_by": "rsalci25"
+}

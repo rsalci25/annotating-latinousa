@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "7b4e921f-1436-47b6-8cbc-1ebaed152ce4": {
+      "label": "011026lusapgm446",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://utexas.box.com/shared/static/tdofeyh8te8zasp6z3z2klo034f0yixx.mp3",
+      "duration": 1744
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 446",
+  "created_at": "2026-10-29T10:28:30.945Z",
+  "created_by": "rsalci25",
+  "updated_at": "2026-10-29T10:28:30.945Z",
+  "updated_by": "rsalci25"
+}

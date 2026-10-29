@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "e97a3449-3c9c-4828-87e4-ce5ae8f7b220": {
+      "label": "010921pgm441",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://utexas.box.com/shared/static/5583z1mmkiu2bvcv9s3uii9ebizu47lt.mp3",
+      "duration": 1745
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 441",
+  "created_at": "2026-10-29T10:28:30.945Z",
+  "created_by": "rsalci25",
+  "updated_at": "2026-10-29T10:28:30.945Z",
+  "updated_by": "rsalci25"
+}

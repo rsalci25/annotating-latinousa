@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "2e1ad4d3-dbc9-4990-910e-a30b1cb5f041": {
+      "label": "011214lusapgm453",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://utexas.box.com/shared/static/4920tq6dwpkd37wz343c46eus30wqwtu.mp3",
+      "duration": 1744
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 453",
+  "created_at": "2026-10-29T10:28:30.945Z",
+  "created_by": "rsalci25",
+  "updated_at": "2026-10-29T10:28:30.945Z",
+  "updated_by": "rsalci25"
+}

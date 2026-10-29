@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "8dd71d4a-66e5-4814-acd3-008f3e55e52b": {
+      "label": "011109lusapgm448",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://utexas.box.com/shared/static/9y168rvw420kxeayprs7t1efkavfpj6s.mp3",
+      "duration": 1744
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 448",
+  "created_at": "2026-10-29T10:28:30.945Z",
+  "created_by": "rsalci25",
+  "updated_at": "2026-10-29T10:28:30.945Z",
+  "updated_by": "rsalci25"
+}

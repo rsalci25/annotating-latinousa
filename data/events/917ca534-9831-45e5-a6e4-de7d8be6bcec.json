@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "7ec65d0f-01fe-4742-86d5-694b839f9c8a": {
+      "label": "011116lusapgm449",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://utexas.box.com/shared/static/w8z4jo2g57cr48sz66i1gd2mo9zrghdb.mp3",
+      "duration": 1744
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 449",
+  "created_at": "2026-10-29T10:28:30.945Z",
+  "created_by": "rsalci25",
+  "updated_at": "2026-10-29T10:28:30.945Z",
+  "updated_by": "rsalci25"
+}
