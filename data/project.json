@@ -26,11 +26,381 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Subject--International Relations",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Subject--Emigration and Immigration",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Subject--Cultural Traditions",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Geographic--Broad",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Geographic--Specific",
+          "color": "#99AFF2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Abortion (Canon law)",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border patrols",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Customs administration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Discrimination in employment",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Hate crimes",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Labor union members",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Music--Awards",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Trucking",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "United States--Relations--Puerto Rico",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "U.S. Border Patrol",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Veterans",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Voter suppression",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Arizona, United States (border)",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Bellevue, Washington, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "California, United States",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Chiapas, Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Dallas, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Del Rio, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "East Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "El Paso, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Guerrero, Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Havana, Cuba",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Laredo, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Las Cruces, New Mexico, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Long Beach, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Manhattan, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Mexico City, Mexico",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Phoenix, Arizona, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "San Diego, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Sonoran Desert",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Texas, United States",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Vieques, Puerto Rico, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Washington Heights, New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ]
     },
     "created_at": "2026-10-29T10:27:25.151Z",
-    "updated_at": "2026-10-29T10:28:31.534Z",
+    "updated_at": "2026-10-29T10:29:00.584Z",
     "generate_pages_site": true
   },
   "annotations": {},
