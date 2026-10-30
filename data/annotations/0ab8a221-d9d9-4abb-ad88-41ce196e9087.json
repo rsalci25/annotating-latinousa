@@ -1,1 +1,1570 @@
-{"annotations":[],"set":"Default","event_id":"15869e9f-eb1f-4c84-9fa9-051df1331be9","source_id":"10d82733-a6b9-458a-aa4a-44631193e2f6"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio journal of news and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8a98237e-8354-4b12-88bf-5aa441e83356"
+    },
+    {
+      "start_time": 5,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b8754965-90c3-4fb9-8f28-db6f47377eed"
+    },
+    {
+      "start_time": 13,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This week on Latino USA, a focus on South America. In Argentina, economic troubles intensify. Argentina has been living beyond its means for a long time. The international financial community, they were falling over themselves, lending Argentina money for many years. Now that Argentina cannot pay, Wall Street is saying there's a crisis. And in Chile, remembering September 11th but from the year 1973. They created secret services and created torture centers and started to disappear people and torture people and send them to exile. And coca growers in Bolivia fight for a tradition. This and more coming up on this edition of Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "0313c9b5-d195-459f-81dc-28afdb71ccb5"
+    },
+    {
+      "start_time": 60,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For this week, this is news from Latino USA. I'm David Alvarez. Cuban and United States officials recently met in Havana to hold talks on the issue of migration. From Havana, The BBC's Daniel Schweimler reports. Since Washington and Havana do not have diplomatic relations, this is one of the few times when the two sides can talk formally. But they seem to make little progress during the daylong meeting in the Cuban capital. The United States says that the Cuban human rights abuses and economic failures are to blame for the flow of migrants trying to reach Florida."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Havana, Cuba",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "9b0b5ce6-3a70-46db-af1e-45ae0126485f"
+    },
+    {
+      "start_time": 90,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuba blames U.S. laws, especially the 1966 Cuban Adjustment Act, which it says encourages its citizens to take to the sea in flimsy boats. The biannual talks, held alternatively in New York and Havana, are intended to monitor compliance with two accords signed by both governments in the mid 1990s, after tens of thousands of Cubans tried to escape economic hardship on the island. The Cuban delegation was especially angry about the latest tragedy in which 30 Cubans, including 13 children, are thought to have died when a smuggler's boat capsized. For Latino USA, this is Daniel Schweimler in Havana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Havana, Cuba",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "d93db059-163f-4afb-ad87-f3451a287a66"
+    },
+    {
+      "start_time": 125,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Miami, a recent poll shows a growing political gap between generations of Cuban exiles, and indicates a possible softening of the U.S. stance towards Cuba. Derek Reveron has more. According to a poll taken by Bendixen and Associates, 23% of exiles are older hardliners who arrived in the 1960s. The rest, who came in the 1980s and 1990s, see themselves as either moderates or advocates of liberalizing the U.S. policy of isolating Cuba. Although the older generation still dominates exile politics, the younger group is reshaping the beliefs of exiles overall."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "cac649d2-f066-4a02-9e9f-b30ac444e33f"
+    },
+    {
+      "start_time": 161,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For example, according to the poll, 53% of exiles support dialogue with Cuba as a way to change its government compared to 35% in 1993. Slightly more than half of exiles now support the U.S. trade embargo against the island, down from around 80% in the early 1990s. For Latino USA, this is Derek Reveron in Miami."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "171d8985-c1b9-4305-b882-a59d995dae77"
+    },
+    {
+      "start_time": 184,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hundreds of thousands of migrant workers are returning home to Mexico for the holidays, and are facing the age-old problem of corrupt Mexican officials demanding bribes. Latino USA's Frank Contreras has more. President Vicente Fox has announced measures to protect some three million returning migrants from corrupt federal agents. This holiday season, many Mexican migrants say their trip home went smoothly. Many others, like this migrant man, say corrupt officials are stopping them at border crossings and demanding dollars. They know perfectly well that we don't have pesos, we have dollars. So when they say 20, they mean $20. In many cases, migrants report that the culprits are Mexican customs agents. Armed robbers are also taking their toll. Migrants are reporting the theft of their new vehicles and cash. For Latino USA, this is Frank Contreras."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Customs administration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "f1448d05-23e1-49d8-bf21-f0a37f053d98"
+    },
+    {
+      "start_time": 237,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA. The U.S. Department of Labor Statistics estimates that over 400,000 jobs were cut in October, and that the nation's Latino population was among the hardest hit. Latino USA's Jesse Hardman reports from Chicago, where a struggling tourism industry has left many Latinos facing uncertain futures. Last August, Chicago resident Mercedes Martinez got a cleaning job at Midway Airport through a local job office. Then came September 11. I found work at Midway Airport, but because of the terrorist attacks, they laid people off. I was one of those people. Martinez says. With two young adults in her house, the past month has been a financial struggle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Discrimination in employment",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "77d8a41b-9a68-42f1-ae2b-3ce26677ac4a"
+    },
+    {
+      "start_time": 285,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "State Senator Miguel del Valle, who represents many of Chicago's Latino neighborhoods, says Martinez's struggle isn't surprising. MIGUEL DEL VALLE (ON PHONE): Given that we are overrepresented in the service industries and were overrepresented in manufacturing, and those are the industries that are being hurt the most at this point, then it stands to reason that Latinos will suffer in a disproportionate manner as the economy continues to decline. Del Valle says. With funding down for federal and state job programs, the Latino community will continue struggling to find work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Discrimination in employment",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "538dbd0c-407d-49c7-8a3b-5ea64e226ebc"
+    },
+    {
+      "start_time": 321,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Juan Salgado runs a group of job centers in Chicago's Southwest barrios. He says many families save what they earn and can survive up to six months without a job, especially immigrants who often come from impoverished backgrounds. When you've been through it and it's been recent have a memory of tough times, you know how to keep your spirit high in tough times. And that's half the battle. A lot of folks that haven't had that experience really enter into serious depression in tough times. For Latino USA, I'm Jesse Hardman in Chicago. In Austin, Texas. I'm David Alvarez. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "55943901-d3a3-4cb7-9339-3be2a5d0da7a"
+    },
+    {
+      "start_time": 359,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "436f9416-290f-4cf5-8d9b-3dd4d1c926df"
+    },
+    {
+      "start_time": 392,
+      "end_time": 421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The economy of Argentina is almost bankrupt after nearly four years of recession. The government owes $132 billion in debt. One out of every six Argentinians is jobless. And in the capital, Buenos Aires, the homeless population has nearly doubled in three years. Argentinians living in the United States remain passionate about their home country. Reporter Michelle Garcia spoke with some of them in Queens, New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "787a2780-2533-4b09-bc4a-716a997d19ca"
+    },
+    {
+      "start_time": 421,
+      "end_time": 454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beautiful the best country in the world. I don't know how I can tell you in English, but the quality of life is different. The people spend more time for friends, for family in America. Times are bad, really bad. And I just found out that the government won't let people take their money out of the banks anymore. 104 Interpreter This is terrible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "c4e7f073-271f-426a-aeed-c5d2ba5ffb4b"
+    },
+    {
+      "start_time": 454,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How did things in Argentina used to be? Well, Argentina is a rich country, so rich that even with all that's happening there, they haven't been able to ruin it. But lately, it's been incredible. There's such a huge debt. If you were to take 10% of what the leaders of Argentina have stolen in the last 30 or 40 years, you could pay off the. debt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "9e94e12e-8a78-40fe-b0c5-10bc807b4886"
+    },
+    {
+      "start_time": 477,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, joining us to help understand Argentina's troubles and its impact on the people there and on the rest of South America are Carolina Biquard, founder and director of the Fundación Compromiso, a nonprofit social service organization in Buenos Aires, and Miguel Diaz, Director of the South America Project at the Center for Strategic and International Studies in Washington, DC. Welcome to both of you to Latino USA. Miguel, let's start with you. You're in Washington D.C., but you study the economy and politics in Latin America, and you specialize in relations between Argentina and the United States. Now, we know that Argentina has been through difficult economic times in the past, but what sets this moment apart from the rest?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "0c72124e-0acc-454a-8471-16ac41e57ac5"
+    },
+    {
+      "start_time": 526,
+      "end_time": 548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Basically, the problem that sets the current situation apart from prior circumstances is that, I guess, we've basically given up on the traditional solutions to Argentine problems. We thought in the past that if we dish out monies towards countries in crisis, that it would do the job. In the case of Argentina, it hasn't done the job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "9cd85396-1bcb-44e7-89f0-b75e181d3b31"
+    },
+    {
+      "start_time": 548,
+      "end_time": 592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carolina Biquard, you are in Buenos Aires. And you're an attorney who has worked with street children there, and you devote your life to assisting people in Argentina who are poor and disenfranchised. Tell us what the reality is like for them now. CAROLINA BIQUARD (ON PHONE): How can I say it's more than terrible. Because the government has cut back all kind of social services. We don't have any kind of state. And the feeling for all of us Argentinians is politicians are living in another country. It's so depressing, the whole climate. Because on the top of everything, everybody is so angry and frustrated with the new government and we feel there's a complete lack of leadership."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "0b48cb91-96a3-484e-9a02-740325374cdb"
+    },
+    {
+      "start_time": 592,
+      "end_time": 641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miguel, would you agree with that? Would you say that what's being seen in Argentina is not only an economic crisis but a severe political crisis that's having an effect on the society across the board? Well, the basic problem in a nutshell, in Argentina is that the Argentines, as a country, has lived beyond its means for a very long time. This whole crisis, though, is not entirely Argentina's fault. Now, the international financial community, they were falling over themselves, lending Argentina money for many, many, many years. Now that Argentina cannot pay, the Wall Street is coming back and saying there's a crisis. For the time being, only the Argentines are bearing the burden of this quote, unquote \"crisis\" and the international financial community until just very recently."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "8d66040c-27cb-4ca0-bae1-6a6cacdd63fc"
+    },
+    {
+      "start_time": 641,
+      "end_time": 671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, let's return to the question of politics. Carolina, I've read that when you were a child, you often heard adults tell each other, don't get involved. And in fact, you heard many people saying that it was dangerous to be involved in Argentinian politics. CAROLINA BIQUARD (ON PHONE): Many, many people that are getting involved but not through political parties because that channel is impossible. But there are many people that are working on nonprofit organizations and nonprofit institutions and trying to build community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "0261384e-9cf6-4c3d-ac49-022f3a33018b"
+    },
+    {
+      "start_time": 671,
+      "end_time": 713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miguel, I'm wondering, in terms of the broader picture in what's happening in the world, the United States and its war, the fact that it can't focus on Argentina, what are the flashpoints when you look at this situation? I don't think there's a real concern in Washington over the military taking over or anything of that sort. I do think that the political environment in Argentina is propitious, though, for a populist-type answer to the current situation. Something akin to what we've seen in Venezuela with Hugo Chavez, which doesn't necessarily make for the best alternative for Argentina."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "d72e3b0b-fbab-4748-8d94-4466d27a92d8"
+    },
+    {
+      "start_time": 713,
+      "end_time": 766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, Carolina, if Miguel is talking about a possible populist government solution or something along that line, what would you see as the solution? What are the things that you would want to see done? CAROLINA BIQUARD (ON PHONE): It's difficult to see a short-term solution. Now, what the problem that one sees that one cannot see a leader emerging, not even from the opposite party. So one is looking for who will emerge. Everybody's fearing that that could be a solution, and that maybe we have a populist and don't do what we have to do. Which would be? CAROLINA BIQUARD (ON PHONE): Which would be to take responsibility of our problems and to restructure the way we are living and to restructure the state. I mean, it's impossible that all the money is going nobody knows where. And there's a lot of corruption and nobody is doing anything about that. And people are dying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "62234330-a3b1-4021-85f5-2f844e4f42a0"
+    },
+    {
+      "start_time": 766,
+      "end_time": 805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miguel, your guess at what we're looking at in terms of Argentina and this crisis and how long it may last. Well, it's lasted already pretty long. I still don't see the light at the end of the tunnel here. And I'm not so sure it really is foremost a political problem in the short term. I think Argentina has to seriously consider dollarization as an option. Because in my view, it's the only thing that could instill any sense of confidence. Second, I think you do need to somehow bring about some kind of consensus in the country staying the course here. And that is a big question mark in terms of the international financial markets."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "6a7120a8-9185-4fec-a01e-359f3d57839c"
+    },
+    {
+      "start_time": 805,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, thank you very much. We've been speaking with Miguel Diaz, director of the South America Project at the Center for Strategic and International Studies in Washington, DC and Carolina Biquard, founder and director of the Fundación Compromiso, a non-profit social service organization in Buenos Aires."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "edc8c41f-4195-4bfa-8d6a-0f9ede4774f0"
+    },
+    {
+      "start_time": 835,
+      "end_time": 889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The September 11 tragedy that destroyed the World Trade Center and part of the Pentagon, has reverberated throughout the world. For South Americans, that date, September 11, is also memorable for an event that happened in Chile 28 years ago. On September 11, 1973, the military there staged a bloody coup with the backing of the US government, that put Augusto Pinochet into power and killed the democratically-elected socialist president Salvador Allende. Chileans remembered how the coup claimed thousands of lives. Many more were tortured and disappeared. Reporter Shereen Marisol Meraji spoke to some Chileans who looked back at the history of their country on September 11."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "d899737f-15ac-4659-83c9-cfa536b53f3b"
+    },
+    {
+      "start_time": 889,
+      "end_time": 936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salvador Allende was the first democratically-elected socialist in Latin America. When he took office as president of Chile in 1970, Chileans celebrated the promise of democracy. In a speech to the United Nations, Allende discussed the importance of creating a new, self-sufficient Chile. But Allende's plans to improve the economy and the hope of many Chileans ended on September 11, 1973."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "0e5b9e88-f5c4-4380-8516-8935942912f3"
+    },
+    {
+      "start_time": 936,
+      "end_time": 972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salvador Allende, 65 years old, who fought with an automatic rifle and a steel helmet, lay in a puddle of blood on the carpet of his office. News of Allende's death and the military coup at Chile's Moneda Palace was reported by radio station KPFA in Berkeley, California, with information from a Cuban news agency. The military coup was kept relatively quiet since the military junta prohibited journalists from leaving Chile with news footage of the event. It wasn't until last year, during the Clinton administration, that CIA documents on the coup were finally declassified."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "California, United States",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "3f9467fb-e166-47a5-bd56-fb8f827e1fb5"
+    },
+    {
+      "start_time": 972,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Richard Nixon convened his national security council and said, everybody down, and they all discussed how to quote, \"bring Allende down.\" Peter Kornbluh heads the Chile Declassification Project at the National Security Archive in Washington, DC. He's been compiling data from 24,000 CIA, State Department and national security documents on Chile. And Nixon said, I want them to understand our position as negative. We have to do everything possible to undermine Allende. We don't want the rest of Latin America to get the idea that we will stand for this kind of thing, meaning the actual free election of a socialist candidate in Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "da087fe7-1e03-45b1-91da-c904663a8a9e"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1041,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kornbluh, who has just written a book on the Pinochet years, says once the general took power, the US ended an economic boycott and resumed investing in Chile. Richard Nixon and Henry Kissinger claimed after the coup that covert operations in Chile were designed to support democratic opposition. And yet the moment that General Pinochet took power and outlawed political parties, closed down the Chilean Congress, ordered a wave of repression that was unparalleled in the Southern Cone up until that point."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "51f1e0cd-825d-48d5-adc8-4c741c04f8ad"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kornbluh says, Pinochet ordered thousands of Chileans to Santiago's National Stadium to be tortured and killed. Professor Claudio Duran, who frequently lectures at Stanford University, says he was also brutally tortured for his political beliefs. One of the important aspects of the regime was silence the opposition. They created secret services and created torture centers and started to disappear people and torture people and send them then to exile."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "7f5f6c64-b783-4c96-967a-7f670819e42b"
+    },
+    {
+      "start_time": 1071,
+      "end_time": 1108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But some in Chile credit Pinochet with bolstering the country's economy and helping rebuild the nation during his 17-year reign. Fundación Augusto Pinochet is a charitable organization in Chile that remains supportive of Pinochet. Spokesperson Luz Maria Guerrero. Despite the human rights problems of the military regime, we can't deny that the economic system that was developed is recognized throughout the world. There's peace, and terrorism doesn't exist in Chile."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "aa5544e7-20a1-447f-9833-833515fc8d80"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 1141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But at the time, Pinochet had a hand in creating what Kornbluh calls a multilateral murder agency known as Operation Condor. Agents trained by the CIA were responsible for silencing critics outside Chile's borders. For instance, the first terrorist attack in Washington, DC, was reportedly committed by Operation Condor agents in 1976. The car bombing of former Chilean ambassador Orlando Letelier and his American colleague Ronni Moffitt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "bb1ad498-9c48-4a06-a5a8-b409549b5cb1"
+    },
+    {
+      "start_time": 1141,
+      "end_time": 1181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Francisco Letelier was just a teenager at the time of his father's murder. He says news of the recent terrorist attacks in New York and Washington, DC, bring back painful memories of September 11 in Chile. Foreign policy decisions in the United States have played a role in both the September 11. Letelier is now an artist in Los Angeles. He says that his paintings serve as an outlet for his heartache after the military coup and his father's murder. Both September 11 and the death of my father, our tragic testaments to the way that those kind of decisions come back and much to our detriment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "0b729169-3cdb-4300-a94a-d21005c7762b"
+    },
+    {
+      "start_time": 1181,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today, the 85-year-old Pinochet is back in Chile. Last March, he was extradited from England after 503 days under house arrest for kidnapping and murder. His arrest was seen as a groundbreaking use of international law to hold dictators accountable for crimes committed during their regimes. For Latino USA, I'm Shereen Marisol Meraji in Oakland, California."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Chile--History--Coup d'état, 1973",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "316b9d66-78bd-46f6-ac41-965bb2942ed1"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the past decade, trade has been a tool used by the United States to curb the drug flow from overseas. The Andean Trade Preference Act expired on December 4, 2001, but the Bush administration wants to expand and renew that agreement. The act encouraged farmers to plant legal crops such as fruits and vegetables, instead of the coca and the poppies used to make cocaine and heroin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "efa98e30-76e3-4204-8da0-a15ec48933a4"
+    },
+    {
+      "start_time": 1243,
+      "end_time": 1272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bolivia, in particular, has been trying for years to stop coca production. The plant is a traditional element in Indigenous Andean culture, and thousands of campesinos, farmers, make their living growing coca. Earlier this year, when Hugo Banzer was still president, Latino USA, Maria Martin traveled to Bolivia to get a firsthand look at the resistance to efforts to end coca growing in that country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "77be411a-b9b2-4120-8010-6aa0c2c91f54"
+    },
+    {
+      "start_time": 1272,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dozens of trucks and cars idle in the dark and rainy tropical night, waiting impatiently at the checkpoint into what's called El Chapare, the region in Bolivia that's been ground zero in the government's war against illegal coca growing. It's been a war in name only. It's more a way to provide work for some people here, and especially for those foreigners in charge of the eradication program. Otherwise, they'd have to leave and make a living somewhere else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "869cbdbf-06be-4065-b946-37923238fb1d"
+    },
+    {
+      "start_time": 1311,
+      "end_time": 1356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "38-year-old Felix Vargas watches the scene skeptically from a roadside stand that sells candies and cigarettes. Vargas explains that what the Army is looking for is any trace of the illegal chemicals that might turn the green leaves of the coca plant into the paste that becomes cocaine. But as far as he's concerned, the only thing that's really happened since the government got serious about eradicating coca is that the people of the Chapare are worse off. In reality, it's really messed us up. Before, the national and local economy were very active, but now everything's gone down the tubes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "5770d4fe-bfc1-41d1-9764-ecf6cfbb35e9"
+    },
+    {
+      "start_time": 1356,
+      "end_time": 1392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just a few years ago, the economy of the Chapare was booming. Poor farmers were making a good living off their coca crops. The buyers flew in on private planes and paid good money for the harvest. Much of it went to the Colombian cocaine trade. People talk about those days when instead of beer, the locals drank French cognac and fine scotch whiskey. Some remembered the time wistfully, others with horror."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "7bf737e7-33fa-4d2d-9e24-c80ca77cd60b"
+    },
+    {
+      "start_time": 1392,
+      "end_time": 1427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oswaldo Antezana is a former minister of agriculture. The early and mid '80s, he says, was a time when there was no moral order in the Chapare. People behaved as if they were not aware that selling coca paste was against the law. Some campesinos were completely oblivious. They were confused when they were arrested for selling paste. One guy even filed a complaint with the police, indignant someone had stolen his paste."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "184cd149-7db2-4d4f-b70c-21119380d8b4"
+    },
+    {
+      "start_time": 1427,
+      "end_time": 1474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But then the government of Hugo Banzer, a former dictator now reincarnated as a democrat, initiated Plan Dignidad. That policy called for the eradication of over 100,000 acres of coca in the Chapare. When 14 US congressmen and other international officials met in the nearby city of Santa Cruz, President Banzer triumphantly announced that Bolivia was winning its war to become drug free. But 7,000 protesting cocoa farmers told the delegates at Santa Cruz that plans to develop alternative farming haven't worked, despite the billions of dollars the United States has invested in the effort."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "4018be09-f346-4a29-aeb0-be677b127607"
+    },
+    {
+      "start_time": 1474,
+      "end_time": 1515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bolivian officials like Antezana say people need to realize that alternative agriculture involves not just substituting crops0 but building a whole economic infrastructure of markets, transportation, and energy sources. Those coca farmers who have switched over to alternative crops like honey, bananas, hearts of palm, or pineapple say they need more markets. They're asking the United States to loosen up its trade restrictions for their products, but other coca farmers stubbornly cling to their traditional and more lucrative crop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "21d3cf11-019c-4dab-b353-cab6841392a2"
+    },
+    {
+      "start_time": 1515,
+      "end_time": 1551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here in the Chapare town of Ivirgarzama, whole families, including children, work to stuff the dried leaves into 50-pound sacks. La coca is part of our culture. As long as there are Aymaras and Quechuas in Bolivia and as long as there is poverty, there will always be coca."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "fec3753a-c3bb-44fd-b6f6-69fceaf39945"
+    },
+    {
+      "start_time": 1551,
+      "end_time": 1584,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The government of Bolivia has recently established an office to look into the medicinal properties of coca, known to the ancient Quechuas and Aymaras as , the sacred leaf. And coca is still used in many traditional rituals. Bolivian officials say, despite coca's connections with traditions going back 3,000 years, that it's coca's connection to a more modern practice, the manufacture of cocaine, that demands its destruction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "fde1542b-4489-45c9-9710-89ef24da21b8"
+    },
+    {
+      "start_time": 1584,
+      "end_time": 1630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hector Manuel Guaio, a young cocaine addict in the city of Sucre, will be spending the next eight months in this rehabilitation center run by a missionary from Brazil. Before I didn't take care of myself. I was really, really thin. I didn't care if I had friends or not. Now, I'm interested in all those things. It's been a big change."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "8ed70990-2f6d-45b4-a371-0ea47fb73533"
+    },
+    {
+      "start_time": 1630,
+      "end_time": 1660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a country with one of the highest infant mortality rates in the world, with huge under- and unemployment, there are few resources for drug rehabilitation. Indeed, Bolivia is hard pressed to make up what it's lost in jobs and other economic benefits from the scaling down of coca farming. For Latino USA, I'm Maria Martin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Coca",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "ec5746b8-50cb-4397-ba82-fa62a5a07e8b"
+    },
+    {
+      "start_time": 1660,
+      "end_time": 1688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, this has been Latino USA, the radio journal of news and culture. Thanks for listening. Latino USA was produced this week by Alex Avila, Walter Morgan, Andrea Valdez and Dean Graber. The contributing editor was Mandalit del Barco. We also had help from Richard Gonzalez, Maria Martin, Michelle Garcia, Robert Frazier, Delane Wright, and Further information about Latino USA is available on the web at latinousa.org."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "952b452c-d395-4273-be49-ca7031545285"
+    },
+    {
+      "start_time": 1688,
+      "end_time": 1744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our listener comment line is 1-800-535-5533, and our email address is lusa@npr.org. This week's program is number 452. Support for Latino USA comes from the Ford Foundation, the Center for Mexican-American studies, and KUT Radio at the University of Texas at Austin. Additional support from the William and Flora Hewlett Foundation, the Foundation, the National Endowment for the Arts, and National Public Radio, whose contributors include the John D and Catherine T MacArthur Foundation. On the web at macfound.org. I'm Maria Hinojosa. Join us again next week for another edition of Latino USA. This is NPR, National Public Radio."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "219b2764-1278-491a-8b4b-b193cb696f29"
+    }
+  ],
+  "set": "Default",
+  "event_id": "15869e9f-eb1f-4c84-9fa9-051df1331be9",
+  "source_id": "10d82733-a6b9-458a-aa4a-44631193e2f6"
+}
