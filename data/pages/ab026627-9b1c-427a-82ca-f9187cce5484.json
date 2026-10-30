@@ -4,11 +4,12 @@
   "created_by": "rsalci25",
   "title": "Episode 444",
   "slug": "episode-444",
-  "updated_at": "2026-10-30T03:46:15.710Z",
+  "updated_at": "2026-10-30T18:26:42.347Z",
   "updated_by": "rsalci25",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "1b7ee5ce-c10f-4bce-aad9-17a7c6dcc517"
-  }
+  },
+  "parent": "dfdf05c6-16f9-4ee3-924f-8ee8ea461017"
 }
