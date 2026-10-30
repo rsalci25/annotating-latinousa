@@ -4,11 +4,12 @@
   "created_by": "rsalci25",
   "title": "Episode 434",
   "slug": "episode-434",
-  "updated_at": "2026-10-30T03:34:14.071Z",
+  "updated_at": "2026-10-30T18:25:44.778Z",
   "updated_by": "rsalci25",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "00edec91-283e-4fbc-bb09-6c704c698580"
-  }
+  },
+  "parent": "dfdf05c6-16f9-4ee3-924f-8ee8ea461017"
 }
