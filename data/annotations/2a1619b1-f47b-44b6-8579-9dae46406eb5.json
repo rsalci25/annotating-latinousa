@@ -1,1 +1,1805 @@
-{"annotations":[],"set":"Default","event_id":"97f30974-5235-4085-8ddc-df9ac0a10025","source_id":"2e1ad4d3-dbc9-4990-910e-a30b1cb5f041"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio journal of news and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "243a0874-164f-458b-b768-ee149ad489bf"
+    },
+    {
+      "start_time": 4,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa. This week, on our holiday edition of Latino USA, our annual broadcast of Las Christmas. There always seemed to be that one lucky lechon plumped by nostalgia, marinated by exile politics, and always, in the end, that lucky pig, spared by Fidel. \"Oye chico, el año que viene el lechoncito lo comemos por allá, over there.\" Latino writers remember their favorite holiday memories. It was a tradition in our family that each year, one of us was presented with an unusual gift, an enormous pair of the biggest, whitest, stretchiest polyester panties that you have ever seen. It's an award-winning holiday tradition, this time, on Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "1fecec9e-4413-4749-99e7-d8a61f8e35d3"
+    },
+    {
+      "start_time": 59,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Christmas traditions run the gamut among families, countries, and especially among cultures. 21 3, Speaker"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "21c0342b-1484-4a5d-9345-ffa2b4374575"
+    },
+    {
+      "start_time": 119,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Buenas, mis amigos. Happy holidays. I am so glad you could make it. My, you look ravishing tonight. Oink, oink. I love the woods. 26 Hinojosa, Maria 27 Hinojosa, Maria 28 Hinojosa, Maria"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "613b0dbb-f088-4b96-b46d-f4377feef6a4"
+    },
+    {
+      "start_time": 150,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We all have our favorite memories of Christmas, of Latino families celebrating Las Navidades en Los Estados Unidos, here in the United States. New for this holiday season is the book \"Las Christmas: Favorite Latino Authors Share Their Holiday Memories.\" In the book, 24 Latino writers share glimpses of their personal lives through family Christmas traditions. For this special holiday program, Latino USA has selected a few of our favorites. We begin with Pulitzer Prize-winning journalist Liz Balmaseda of the Miami Herald. Balmaseda was born in Cuba just after the 1959 revolution. Her family moved to Miami when she was just 10 months old. Her Christmas memory is entitled Next Year in Havana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "5ff7086c-daed-46c7-8e8c-67de56bf280b"
+    },
+    {
+      "start_time": 204,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There always seemed to be that one lucky lechon plumped by nostalgia, marinated by exile, politics and always, in the end, that lucky pig, spared by Fidel. It was the one the old Cubans in Miami perennially vowed to consume in Havana next Noche Buena. \"Oye chico, el año que viene el lechoncito lo comemos allá, over there.\" This would be a lechon slaughtered at dawn, skewered with particular her satisfaction, lowered into an earth hole in the backyard, or perhaps into one of those tin contraptions they use in El Exilio called La Caja China."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Havana, Cuba",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "101782b2-fec8-42f5-acb6-25f397391197"
+    },
+    {
+      "start_time": 242,
+      "end_time": 260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It would be slow-roasted to perfection as morning dissolved into afternoon. The cousin population swelled inside the kitchen, and in a rustle of palms, the strain of triumph filtered into the night, serenading the martyred lechoncito like a Willy Chirino song."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Havana, Cuba",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "7b84870d-791c-4210-a76b-66189354511d"
+    },
+    {
+      "start_time": 260,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We all asked Santa for bicycles and Barbies. Mami and Papi and Abuelo and Abuela asked for Christmas in Cuba. For as long as I can remember, Noche Buena Miami style has been a feast of fantasy. We would spray our winter wonderlands upon the sliding glass door in the Florida room, Feliz Navidad, snowflake, snowflake, snowman, candy cane, oblivious to the contrast of the scene outside, the palm trees and banana trees, and oranges and mangoes, the Virgencita de la Caridad shrine, the slip and slide, and the basketball net."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "823ec5dd-5804-4195-acee-337c244229b6"
+    },
+    {
+      "start_time": 294,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We celebrated a stream of noche buenas in Hialeah, the viejos invoking the spirits of long-ago celebrations as their sons and daughters picked apart the Miami Dolphins' starting lineup. Our unwitting stabs at assimilation left us in a bizarre time capsule."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "65cae166-4257-4418-aaa3-60fb7b6a5a31"
+    },
+    {
+      "start_time": 307,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Consider the juxtaposition of Celia Cruz, Benny Moré, Joe Cuba, with Dasher, Dancer and Prancer and Vixen. My uncle sang rum-soaked tangos. My cousin sang Charles Aznavour songs. I chased her into startling octaves with my guitar. We drank eggnog and nibbled turon. And sometime during the night, as inevitably as Christmas would dawn the next day, somebody in the house cried for those left behind in Puerto Padre, Cuba, those who seemed to exist in another dimension, a sad, gray state of inertia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "411be48a-af28-41cc-bf15-0adcf36c3bdf"
+    },
+    {
+      "start_time": 346,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On Christmas, we could produce evidence of our Cuban roots at the dinner table and on the dance floor. But no amount of black beans and yuka con mojo and cha-cha-cha could summon all of Cuba to West Hialeah, Dade County, Florida. The nostalgia bound had to settle for the fantasy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "f03d4a22-f322-40b1-baeb-7c58251034a7"
+    },
+    {
+      "start_time": 375,
+      "end_time": 436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the meantime, we all thought ourselves to be pretty American. After all, we had the American Christmas routine down. We had accomplished layaway and the mall. We anticipated Santa like everybody else. Of course, we knew he had to make extra stops at Cuban homes, considering how many cousins and second cousins we had. What seemed to make us different from Los Americanos was that extra lechon, the one always granted a stay of execution when it became clear noche buena, once again, would be in Miami, over here. Columnist Liz Balmaseda writes for the Miami Herald. This story first appeared in C! magazine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "65b8dcdd-57eb-4e79-a02c-1136bd89f35a"
+    },
+    {
+      "start_time": 436,
+      "end_time": 475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Native New Mexican writer and activist Denise Chavez has written a number of books, beginning with her 1994 award-winning novel \"Face of an Angel.\" When asked for her favorite Christmas memory, Denise said only two words, big calzones. It was a tradition in our family that each year, one of us was presented with an unusual gift, an enormous pair of the biggest, whitest, stretchiest polyester panties that you have ever seen, sangs queen ultra-mega 4x clownish enormous drawers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Las Cruces, New Mexico, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "d90b979e-e590-4b0a-897f-1b450344a7f1"
+    },
+    {
+      "start_time": 475,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just to look at them made you laugh out loud. Mother bought them at Aaronson Brothers' clothing store on Main Street in our little hometown of Las Cruces, Nuevo Mexico. Each year, she wrapped this huge pair of breeches in the loveliest paper, tied with an elaborate bow, and gave them to some unsuspecting but delighted soul in our immediate family."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Las Cruces, New Mexico, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "6692dea0-5e3a-44a8-bc39-a62444226bef"
+    },
+    {
+      "start_time": 502,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The package was open to squeals of laughter. You never knew when it would be your turn to receive the panties. My mother's sense of humor was legendary and sometimes diabolical. Despite her propriety as a teacher and single mother, she had a great sense of the ridiculous and liked to take photographs of people in disarray."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Las Cruces, New Mexico, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "1f871ef9-d69d-4763-b60a-2fde164c80db"
+    },
+    {
+      "start_time": 525,
+      "end_time": 576,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She often ambushed my sister or me in the bathroom, a towel draped loosely around a naked body seated on the toilet, hair in curlers reading the \"National Enquirer.\" She kept an album of crazy photographs that I still treasure today. That first year, I was the one who first received the big calzones. As I opened the beautifully wrapped gift, I had no idea why there was a special twinkle in my mother's eye. We all had a huge laugh as we passed around the giant panties and tried them on. Mother was a large woman, but she, too, modeled the panties. I snuck out of the room to get her camera and catch her in the act."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "0284d854-63d5-48e7-b756-a8b40fcb0fe5"
+    },
+    {
+      "start_time": 576,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After Christmas, the calzones went to mother's gift box, a large cardboard bin stored in the living room closet behind the winter coats and umbrellas. If a birthday came around without warning, if there was an unexpected wedding or a forgotten anniversary, she would send us to the box to find an appropriate last-minute gift."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "b89ea4f4-ed91-4678-bc16-65e3507684fa"
+    },
+    {
+      "start_time": 594,
+      "end_time": 629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The box held the leftovers given to my mother by her third-grade students, expendable gifts like cheap leather wallets, lifesaver books, inexpensive vases, an assortment of gloves, scarves, and one special item, a red plastic wallet with a window on the front displaying a postcard-sized portrait of a handsome and very lean Jesus Christ. We called it the Jesus wallet, and the big calzones, it was given to one or another family member every Christmas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "f6423e40-6365-4beb-96bd-38231956f29d"
+    },
+    {
+      "start_time": 629,
+      "end_time": 667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But unlike the giant panties, the Jesus wallet was a serious gift, too serious for teenage girls. We never used the wallet, but every year, secretly put it back in the gift box for someone else. By the time another Christmas came around, Mother often forgot which of us had been given the Jesus wallet the year before. Christmas will always be special to me, as much for its wonderful, noisy fanfare as for its deep and pensive silence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "e8ad3ec1-4019-426c-8bc6-88cd7819470d"
+    },
+    {
+      "start_time": 667,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After all was said and done, our little street, La Colonia, was asleep. But for the one house with its trinity of windows, a blue or pink or white or silver-flocked tree in the corner of the living room, lights woven through the branches covered in angel hair, an incredible pile of presents underneath so high it scattered halfway across the room, nearby tables and surfaces held the spillover."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Las Cruces, New Mexico, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "14532ce5-7ec9-4898-a5eb-1cb8c7a6ba48"
+    },
+    {
+      "start_time": 693,
+      "end_time": 716,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contented, we dragged ourselves to bed, our family at peace, our disappointments, petty disagreements and arguments tabled for another day. The cousins and the uncles and the aunts were long asleep. My sister and I were tucked in. Our father safe at home, at last, for a little while."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Las Cruces, New Mexico, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "56d6ce46-a170-4447-944f-d6de259a44a0"
+    },
+    {
+      "start_time": 716,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mother, her long black hair flowing down her back, her full bosom heaving happily, turned off all but the Christmas tree lights. She stood in the doorway to her room, her face moist, a little dot of color on each cheek. Her door was left open a crack and would stay that way as she waited for that one special late-night visitor. The Jesus wallet lay on the coffee table in the living room, ready to be tucked into a dark corner of the gift box. The big calzones were draped over the couch like a banner. The night was beautiful, silent, still. There was no jarring whistle from the train at the end of the block, that train that moved forever North to Albuquerque and then to Santa Fe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Las Cruces, New Mexico, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "85b67eee-9449-461e-9e3c-b871ed3f9eda"
+    },
+    {
+      "start_time": 772,
+      "end_time": 802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the clear and dark morning, that blessed early morning, the calm was only broken by the sound of muffled voices, rustling bodies, hope. Author Denise Chavez is the founding artistic director of the Border Book Festival based in Las Cruces, New Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Las Cruces, New Mexico, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "aec52bf1-a63d-43f1-b56c-c47cb5a34ea8"
+    },
+    {
+      "start_time": 802,
+      "end_time": 845,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A few days before Christmas, the frost crawled up the inside of our old windows, making it harder to see the sidewalk below. Ray Suarez is a familiar voice to many NPR listeners as the host of the call-in show, \"Talk of the Nation.\" His Christmas remembrance recalls the holiday traditions of Puerto Rico that were transplanted to the Midwest. Nuestra Navidad in Chicago, Our Christmas in Chicago. Before we could wipe a window to get a glimpse of the park, an incongruous sound carried across the frigid, still air, two guitars, maracas, a guiro, and a small crowd trying to keep up with the songs were heading toward our house."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "372d808d-b4e9-487f-81ee-9b27013fe25c"
+    },
+    {
+      "start_time": 845,
+      "end_time": 880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The yellow glow of modern street 227 Suarez, Ray 228 Suarez, Ray lights bounced off a brand new dusting of snow. Our friends, laughing and threading their way across the whitened park, sent up little breath cloud plumes against the bright light. Christmas was arriving in the form of these frozen musicians and their chilled chorus, and we could watch it all for another minute before running to open the door."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "e6aff0c9-1778-4cca-9c1d-29745f41b13d"
+    },
+    {
+      "start_time": 880,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Back in Puerto Rico, musicians singing traditional aguinaldos would wander from house to house, expecting to find hospitality, both solid and liquid, at every stop. The parandistas literally sang for their supper, accompanied by the householders in a growing entourage of friends, neighbors, and relatives, on or off-key. It's a beautiful custom, quite in tune with that old and perhaps vanishing Puerto Rico, where people not only knew all their neighbors, but all their neighbors' business as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "c9f4d44c-f884-4fee-b882-a44f55825df3"
+    },
+    {
+      "start_time": 911,
+      "end_time": 932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In late 20th century Chicago, we had to find a broader definition of kinship. We were amalgam people. Our parranda would meld the warmth and welcome we believed was our birthright with the caution of the new proprietors we had struggled so hard to become. Thus, not everyone in the neighborhood who decided they'd like to join in would be welcome."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "3dc0b105-3bce-4280-869f-fd48d7de780d"
+    },
+    {
+      "start_time": 932,
+      "end_time": 981,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There would be still more surrenders. Now 38 weeks pregnant, there was no way my wife Carol was going to cook the labor-intensive dishes of the season, pasteles, mashed plantains stuffed with pork, pastelillos, fried meat pies. No, these would be-- sorry, Abuela, bought from Sabor Latino, one of a cluster of struggling, undercapitalized, and occasionally wonderful small restaurants in our neighborhood. Invitations were spit out of desktop publishing programs, homes were decorated, food ordered, booze acquired. A few days before the party, a cold front came barreling down from Canada promising to make this one of the coldest Christmases in a generation. Perfect. Just the thing to remind us we weren't on the island anymore. Phone calls followed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "114aa8d8-798c-4120-8d6c-019a777b647d"
+    },
+    {
+      "start_time": 981,
+      "end_time": 1003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Should we move from house to house? Should the pregnant women, three of them, go by car, while the first-ever Iditarod parranda preceded by snowshoe? Well, we stuck with our plan. A frozen delivery man from Sabor Latino arrived an hour later than expected, but before the guests, who were also late, arrived from their first stop around the corner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "b685fbca-1924-4127-97e6-d1d1a3bb5b2a"
+    },
+    {
+      "start_time": 1003,
+      "end_time": 1042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Candles were lit, lights dimmed. The house began to fill with the bouquet of vast amounts of Puerto Rican food. We stood by the frosty windows and waited for the bell. Leaving the door open was out of the question in single-digit cold. Musicians and revelers, and yes, even the pregnant women, climbed the stairs, their faces flushed scarlet and eyes shining. The songs continued in the living room. The Anglos scattered through the room, friends, neighbors, spouses and lovers. They sipped their drinks and smiled indulgently, some limbering up their high school Spanish and consulting the song sheets, drinking the whole thing in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "9036dbfd-28a1-4e81-ae80-82224d488431"
+    },
+    {
+      "start_time": 1042,
+      "end_time": 1063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is what the potent combination of migration and education brings. It was a cornerstone belief of the Latinos in the room that something beyond merely liking each other bound us together. We looked for the similarities in family histories, the struggles of the newly landed, and our ongoing argument with America about being here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "a6bc7c25-4508-449c-832e-dc7d0464a8cd"
+    },
+    {
+      "start_time": 1063,
+      "end_time": 1087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was the bond of religion, though many were indifferent Catholics, even outright atheists. There was the bond of Spanish, though, where there was a range in facility from poetic fluency to something hard on the ear. Time in the States ranged from a few years to a few generations, to South Texans, who had been in the country as long as there had been a country. Yet, somehow, we were all raza."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "379abf39-c173-4a53-a1f9-009f179576f7"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More sentimental than hard-headed? Maybe. Was this notion of identity so plastic we could easily bend it to fit our needs? Perhaps. But here in this city, so far from the places where the Geraldos and the Laras, and the Martinezes and the Garcias and the Suarezes started their journeys, we didn't need to analyze all this very much. We saw ourselves in each other's eyes, and that was enough."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "77163aa2-147c-4083-89cc-6b53db4f00be"
+    },
+    {
+      "start_time": 1113,
+      "end_time": 1137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For those of us far from home and the people who shared our names and our DNA, this was as good a family as we could find on the road. For this holiday, we had created a warm country to live in. It was Christmas in Pan-America. And though there would never be a special on TV for our new nation, we had a feeling we were all on our way to somewhere different than the place we all started out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "24f005b7-d7cc-4f87-bf41-dd6ea9b5976d"
+    },
+    {
+      "start_time": 1137,
+      "end_time": 1187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pitorro, a Puerto Rican grappa found more often in well-washed plastic bleach containers than in fancy bottles, emerged from someone's coat. Despite a hurried life, I had found time to make pitchers of coquito. The songs continued. The three kings on the mantle stared across the living room at the silently winking Christmas tree. When the parandistas made their way to the next house, we took a deep breath. Alone again, we began to clean up. After bouncing around a lot through our married life, we were home. We cared about these people, and we were happy to have a house full of them. Late on El Dia de los Tres Reyes, the contractions began. I packed away the Christmas ornaments while Carol labored, knowing, soon, there would be very little time for these chores."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "47af58a2-e7fd-41f7-a804-d42487edbb51"
+    },
+    {
+      "start_time": 1187,
+      "end_time": 1235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The deep chill, it kept its grip on Chicago through Christmas and into the young new year. We drove through quiet, cold streets the next morning to the hospital, and Rafael was in our arms just a few hours later. He was too late for the party and right on time. NPR'S Ray Suarez is also a published author. His book, \"Running Away From Home\" by Free Press, is a look at white flight and the American city. 341 MUSIC, UPBEAT SPANISH"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "e1f4a765-089b-4d03-bf53-511a9de04ed5"
+    },
+    {
+      "start_time": 1235,
+      "end_time": 1274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Baldwin, Kansas, perhaps not the typical location for a Latino Christmas, but for Latino USA correspondent Mandalit del Barco, Baldwin, Kansas, was home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "743c0abb-6c1b-4650-b719-6321bb943f83"
+    },
+    {
+      "start_time": 1274,
+      "end_time": 1291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Being the only Peruvian, Mexican-American family in the one-horse town of Baldwin, Kansas, we invented our own multicultural rituals to celebrate Christmases del Barco. It was the 1960s, and we had immigrated from South America to the sunflower state, where Mom grew up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "3ccc2f7b-48b2-4057-a594-1804750b6182"
+    },
+    {
+      "start_time": 1291,
+      "end_time": 1323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Peru, while studying folklore on a Fulbright fellowship, Mom had met Dad, a dashing journalist and actor, and their international love story began. I came into the picture in cosmopolitan Lima. And 18 months later, we moved to Kansas just before my brother Andy was born. In the years that followed, we were probably one of the few families in Baldwin who collectively protested the Vietnam War, boycotted non-union grapes, joined in Native American powwows, campaigned against Nixon, and championed women's lib."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "2299f09b-f227-4700-b437-16ff0c13d9c6"
+    },
+    {
+      "start_time": 1323,
+      "end_time": 1361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rest of Baldwin remained nestled comfortably in some earlier era, a throwback to the '50s or ' 40s, or 30's, even. The place always reminded me of Mayberry RFD, though Andy jokes that if Baldwin was Mayberry, than we were something akin to the Addams Family. At any rate, I had the feeling we were not in Lima anymore. In the snowbound prairie town where Mom taught Spanish literature at a small college while Dad worked on his graduate thesis in anthropology at the University of Kansas, our hybrid holiday would always begin with the perennial viewing of our TV favorite, Dr. Seuss' How the Grinch Stole Christmas. MAN (ON TV):"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "34914606-04b6-4962-9cf4-52ec8789c8b0"
+    },
+    {
+      "start_time": 1361,
+      "end_time": 1409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then he slunk to the icebox. He took the Whos' feast. He took the Who pudding. He took the roast beast! (SINGING) You're a foul one, Mr. Grinch Instead of roast beast, our Christmas dinner, eaten on Christmas Eve, was usually a delicious marisco-filled cioppino made by Dad, who pointed out that in Quechua, the Indian language of his native Peru, chupe means soup. Sometimes he'd make ceviche or papas a la huancaina, or Mom would prepare tamales and enchiladas. For dessert, we savored the bunuelos y chocolate, which Mom made in her family's traditional Mexican style, spicing the evaporated milk and Hershey's with sticks of cinnamon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "d823b82f-e518-4357-b954-ad95cecf5885"
+    },
+    {
+      "start_time": 1409,
+      "end_time": 1422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Inevitably, Andy and I would fall asleep on Christmas Eve waiting for our pet cats to talk to us, as we were told all the animals would speak at midnight. A Mexican tradition? Peruvian? American? It was always una mezcla, a mix."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "ed058371-e441-4080-9031-221507de4da8"
+    },
+    {
+      "start_time": 1422,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Among the figurines in our nacimiento, the nativity scene handmade in Ayacucho out of Piedra de Huamanga, an alabaster from the Andean highlands, Andy and I would position our Sesame Street finger puppets. This way, Grover, the Cookie Monster, Ernie and Bert, whom we dressed in red felt costumes, assumed their rightful places next to baby Jesus and a fuzzy llama scaled to size. Mom and Dad would address our gifts with joke tags like, for Andy, from the third elf on the left, or for Mandalit, from the combined elf chorus."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "b074240d-b2d1-4a78-a696-1bf7631d5aed"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In return, Andy and I would put on another ad-libbed puppet show from behind the cleverly designed puppet theater Dad built for us, or we'd dream up another satirical radio play recorded reel-to-reel using Mad magazine style puns, like the feminist Christmas comedy we once produced for an NPR children's radio contest called \"The Trial of Miss Claus.\" YOUNG ANDY (ON RECORDING): Well, I was going to work on my regular block, and I see this huge dude in a red suit. I figured he was trying to muscle in on my act. Then, as he was going through the window, his beard got caught on a tree limb and came off. I seized that it was a lady. Of all things, I figured she was what you might call one of them male impersonators. YOUNG MANDALIT (ON RECORDING): How dare you insult my identity? YOUNG ANDY (ON RECORDING): Order! That'll be all, Mr. Berg. Call the witness for the defense, please."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "d2c0a6a3-5090-4f63-8e50-1e1db75538eb"
+    },
+    {
+      "start_time": 1529,
+      "end_time": 1558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Besides creating satires, my family introduced the neighborhood to some Latino traditions. Folks in Baldwin didn't know from las posadas, caroling in Spanish. And there was no Misa de Gallo, Midnight Mass. But we'd invite the Brady bunch-like neighborhood kids to help us light the sidewalk luminarias with made-up school lunch bags filled with sand and candles, a New Mexican tradition from Mom's side, and they helped us to knock down our homemade pinatas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "7aae6130-47c7-4abd-a09a-12f10b47ede2"
+    },
+    {
+      "start_time": 1558,
+      "end_time": 1589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somehow, we even taught them a few Mexican and Peruvian folk songs, though they probably had no idea what the words meant, but that didn't much matter. There was always another foreign student or five visiting our house for Christmas from Peru or Kenya or China or Costa Rica, imported from Somalia, Mexico or Colombia, too. One year, the entire college soccer team showed up to share in our polyglot celebrations. We were all expatriates living in the land of Oz, making things up as we went along. Feliz Navidad, or as they say in Kansas, Merry Christmas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "b0107ed9-16ba-45f3-9e9b-df9cfb0bda31"
+    },
+    {
+      "start_time": 1589,
+      "end_time": 1645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We don't know if Mandalit ever won the contest or not, but she has put that early training to good use. Based in Los Angeles, she's now a full-time reporter for National Public Radio. These stories and more can be found in the new book, \"Las Christmas: Favorite Latino Authors Share Their Holiday memories,\" edited by Esmeralda Santiago and Joie Davidow, and published by Knopf."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Christmas",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "ff2da7f2-a0ac-446d-80d4-1217a4f0d96a"
+    },
+    {
+      "start_time": 1645,
+      "end_time": 1723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, this has been Latino USA, the radio journal of news and culture. Latino USA was produced this week by Alex Avila, Walter Morgan, and executive producer Angelica Luevano. The contributing editors are Maria Martin and Katie Davis. We had help from Manoli Wetherell. Latino USA is a production partnership of the Center for Mexican-American Studies and KUT Radio, the University of Texas at Austin. Why don't you call us with your comments at the Latino USA listener line at 1-800-535-5533. You can also email us at lusa@npr.org, or visit our website at www.latinousa.org. This week's program is number 297. Major funding for Latino USA comes from the Ford Foundation, the Corporation for Public Broadcasting, and the University of Texas at Austin, additional support from the National Endowment for the Arts and National Public Radio, whose contributors include the John D. And Catherine T. MacArthur Foundation. I'm Maria Hinojosa. Happy holidays from all of us at Latino USA. Well, just relax and have a fabulous time."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4dbe08db-ea04-4458-92b9-5653dca6f2e2"
+    },
+    {
+      "start_time": 1723,
+      "end_time": 1744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Feliz Navidad, baby. Additional support provided by these Austin, Texas restaurants, Curra's Grill, Empanada Parlor, and El Sol y La Luna. This is NPR, National Public Radio."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cbbd59ea-67f8-4e5e-8782-7ba17861a9f8"
+    }
+  ],
+  "set": "Default",
+  "event_id": "97f30974-5235-4085-8ddc-df9ac0a10025",
+  "source_id": "2e1ad4d3-dbc9-4990-910e-a30b1cb5f041"
+}
