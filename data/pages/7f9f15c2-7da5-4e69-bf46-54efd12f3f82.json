@@ -4,11 +4,12 @@
   "created_by": "rsalci25",
   "title": "Episode 440",
   "slug": "episode-440",
-  "updated_at": "2026-10-30T01:08:53.373Z",
+  "updated_at": "2026-10-30T01:09:12.970Z",
   "updated_by": "rsalci25",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "1c6806c8-385e-43aa-9fc6-fa574a530f04"
-  }
+  },
+  "parent": "dfdf05c6-16f9-4ee3-924f-8ee8ea461017"
 }
