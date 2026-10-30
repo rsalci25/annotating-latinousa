@@ -4,11 +4,12 @@
   "created_by": "rsalci25",
   "title": "Episode 446",
   "slug": "episode-446",
-  "updated_at": "2026-10-30T05:14:23.975Z",
+  "updated_at": "2026-10-30T18:27:08.184Z",
   "updated_by": "rsalci25",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "2d330e50-bb73-470c-874c-a0926e6faaa8"
-  }
+  },
+  "parent": "dfdf05c6-16f9-4ee3-924f-8ee8ea461017"
 }
