@@ -1,1 +1,1738 @@
-{"annotations":[],"set":"Default","event_id":"1b7ee5ce-c10f-4bce-aad9-17a7c6dcc517","source_id":"de5393de-9c2a-4c29-a73e-d3e410af51d2"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio journal of news and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9e8e98fa-2b96-49a0-805b-4bcc90c2d637"
+    },
+    {
+      "start_time": 12,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa. This year, the US census released figures revealing that Latinos now number some 36 million in the United States. And they're changing the face of this country with far reaching implications for politics and culture. Why it's important? Because every vote counts. The Hispanics we're here to stay. We're part of the community. We need to make sure that we vote. I tell my dad to go vote. I tell my brothers to go vote. And we can. We will do it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "fda3f7cf-488d-4eee-b10d-3b6e09bd6968"
+    },
+    {
+      "start_time": 40,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today we look at how this growth is playing out across the United States, from Houston, Texas to rural North Carolina. Latinos and a Change in America coming up on this special Hispanic Heritage Month edition of Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "213f6b8d-ac81-4193-bc11-b166ca74aaf7"
+    },
+    {
+      "start_time": 58,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For decades, national civil rights leaders, African-American and Latino alike, have worked together in common interest. At the same time, these activists acknowledged that there are tensions between their respective communities at the grassroots levels. Since the US Census Bureau reported that Latinos have become the nation's largest minority group, many of these activists have begun speaking out about these tensions in an effort to spur a constructive and public dialogue. NPR's Richard Gonzales reports on one recent conversation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "9328b816-78d2-4402-9c34-664a0afa4f1f"
+    },
+    {
+      "start_time": 92,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since the US Census Bureau confirmed that Latinos are becoming the nation's largest minority group, civil rights leaders say there is a greater need than ever for a candid conversation between the two communities. And that was one of the main topics in Milwaukee this summer at the annual conference of the National Council of La Raza, or NCLR. The plenary session was entitled Latinos and African-Americans in the Wake of the 2000 Census. The speakers were seasoned civil rights veterans, all of whom have collaborated in the past and many of whom have formed close personal bonds. As such, they were careful to emphasize the common interests between their two communities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "6d0c7c90-c9f9-416a-aa0a-b823f9378c5a"
+    },
+    {
+      "start_time": 128,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "René Redwood is a senior fellow for Technology and Democracy at the Washington, DC-based Center for Policy Alternatives. She said one common interest can be found in the results of the last presidential election, in which some 2 million votes cast were not counted. If you look at that 2 million, close to 55% of that 2 million were African-American and Latino. If you count up the number of votes that were cast in the States of Alaska, North Dakota, South Dakota, and Delaware, you would have eliminated those states completely because that was 2 million votes. We would have a very different person in the White House. Our power working together as a community is critical. When we look at data like that, we recognize that we must work together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Voter suppression",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "0704faa5-892f-4d0c-a1f0-944457b7966c"
+    },
+    {
+      "start_time": 175,
+      "end_time": 227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was a consensus among the speakers about the need for a common agenda on critical issues, such as health, education, and economic opportunity. But that didn't impede some frank discussion about their differences. Sanford McLeod is the president and CEO of the National Conference for Community and Justice. African-Americans believe to the deepest parts of their soul and being that they have a very unique history in this country, second to none. And I think at the same time, there was a feeling on the part of a lot of African-Americans that the Latino community does not appreciate and understand that. On the other side, I think that African-Americans do not appreciate and understand the pain of the struggles of Latinos collectively in our country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "39f1163b-3df3-4489-a513-54b043743d1d"
+    },
+    {
+      "start_time": 227,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is no secret that within the Civil Rights community, Latinos have long been viewed as the junior partners in that coalition. Historically, African-Americans spearheaded the Civil Rights Movement. And initially, many national Latino advocacy groups took their cues from the Black experience. For example, the Mexican-American Legal Defense and Educational Fund, MALDEF, is modeled after the NAACP Legal Defense and Educational Fund. Antonio Hernández is MALDEF's president and general counsel. Hernández says given the rapid emergence of Latino communities in the deep south, it's more important than ever for such conversations to be held on the community and neighborhood level. There's an opportunity, Hernández says, to avoid many of the conflicts of the past."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "6c55d38a-ef51-457e-a1a3-b19d31401b8a"
+    },
+    {
+      "start_time": 269,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there is already the pitting against Latinos and African-Americans. Just read the newspapers. Just look at the television set. It's the perception that we will take away jobs. But let me tell you, when you go into a slaughterhouse, when you go into a poultry factory and you see the labor abuses, they don't care whether you're Brown or Black. They just want cheap labor. And that's what we have to keep in mind. The media-fed perception of competition between African-Americans and Latinos was a hot topic, even after the panel concluded its presentation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Discrimination in employment",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "4cebe236-0ea8-42a2-95c0-455a36ae5894"
+    },
+    {
+      "start_time": 307,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ida Castro is the former chairwoman of the Equal Employment Opportunity Commission. The way it was portrayed in a whole host of headlines really reflected more or less the following message, Hispanics pass African-Americans. As if that contrast means that if we progress, it must be at the sake of another community. And there is no reason why the African-American community should feel threatened by the presence of the Hispanic community, or vice versa. Still, all of the panelists agreed that perception of competition between the two communities remained strong and that there is a need to take conversations, such as this one out of the conference room and onto the street, as Latinos become a more significant part of this country. For Latino USA, I'm Richard Gonzales."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Discrimination in employment",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "2354969d-bfd7-46ee-a553-d8abca23393b"
+    },
+    {
+      "start_time": 359,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "efd0a30c-f87a-4808-9123-1bc4d756f4ec"
+    },
+    {
+      "start_time": 392,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A number of demographic snapshots released over the last year by the United States Census Bureau have demonstrated what many Latino activists had been saying for the past two decades, that the Latino community in the United States is changing the cultural landscape of this immense country. While evidence produced by hard numbers is one thing, how these changes affect individual communities across the country is another thing altogether. For Hispanic Heritage Month, Latino USA correspondents and producers visited various key communities across the country to get a firsthand glimpse of some of these dramatic changes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "1e5e60de-69da-4bde-a35d-7bcddb6d9c20"
+    },
+    {
+      "start_time": 442,
+      "end_time": 492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The states of California and Texas are still the most heavily Latino of all the 50 states. But in this new century, that Latino character in these regions has acquired the flavor of immigrant streams from countries, such as El Salvador, Colombia, Guatemala, Honduras, Peru, and Nicaragua. The estimated 3.1 million Central and South Americans who live in this country are beginning to develop their own sense of political and social place, and they're transforming neighborhoods all across the United States. Latino USA's Deepa Donde reports from Houston, Texas where the rise of Central Americans has had a profound impact on the city and its established Mexican-American population."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "California, United States",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Texas, United States",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "67807310-1596-45cf-a116-89b5c4f36849"
+    },
+    {
+      "start_time": 492,
+      "end_time": 531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Houston today looks like what the rest of the country will look like in 2050. One out of every three residents is Latino. KQQK, Houston, mas musical. Next. Harris County and its surrounding areas has the second largest immigrant population in the country, second only to Los Angeles County and engulfed in a neighborhood that borders Houston's financial district. The presence of Central Americans is everywhere, in restaurants, on soccer fields, and in the dozens of businesses in many Houston neighborhoods."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "7251d0eb-0f22-49e6-945d-14394ce0e3a6"
+    },
+    {
+      "start_time": 531,
+      "end_time": 579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here at the El Quetzal Bakery on the city's South Side, 26-year-old Edgar Ordoñez-Chanas shows off the specialty of the house. All this right here you see is one , which is our best seller right here. We are the ones that came up with our recipe. My grandma actually came up with the recipe, so it came back from a generation of bakers. Edgar is a Maya from Guatemala, and the El Quetzal bakery is a family-owned business. His father, Don Esteban Chanas left their small town of San Cristóbal in 1984 to seek a better life up north. He's found that better life here in Houston. Yeah, the burritos is ready. It's hot burritos. It's coming-- Chanas now owns three bakeries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "07ceb0c1-4cb6-4227-9d80-dd2d2c58bcd2"
+    },
+    {
+      "start_time": 579,
+      "end_time": 623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Small businesses like his are revitalizing the many low income sections of Houston. We are creating job opportunities for our people. We're giving jobs to our people. We now have 20 employees. Chanas and his family are part of the almost 2 million Central Americans who live in the United States, a population that 10 years ago was mostly found in a few major cities, such as Los Angeles, San Francisco, or Washington, DC. But today, Central Americans represent close to 5% of the total Hispanic population, and emerging communities can now be found all over the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "a37565d6-474d-4138-8c0d-6ff8ab728f11"
+    },
+    {
+      "start_time": 623,
+      "end_time": 665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The latest and largest migration of Central American states back to the late '70s and early '80s, when civil wars displaced thousands from their Homeland, among them the Maya. When I found the Maya in Houston, I was extremely excited because I knew they were not Mexicans. These were not mestizos. These are Indigenous people. Nestor Rodriguez of the Immigration Research Center at the University of Houston has been tracking this migration for decades. They were here thousands of years ago or their ancestors before the Europeans came. To me, this is incredible. It's so incredible, I think, that a prestigious committee of the American Anthropological Society should be at the border to greet them. But instead, it's the Border Patrol. They catch them and send them back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border patrols",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "U.S. Border Patrol",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "97ff71c4-5d10-4534-b7e3-dc0bcb42095d"
+    },
+    {
+      "start_time": 665,
+      "end_time": 713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maya migration north follows a familiar pattern seen throughout Latin America. First one or two people come to a place in the United States, word gets back home that life here offers better opportunities, and others from that place soon follow. Now I think Houston is my home. Before, I didn't like it. But now, I like it. Benito Juárez heads the newly established mayor's office for Immigrant and Refugee Affairs for the City of Houston. Juárez, too, came from Guatemala in the '80s, fleeing violence. I saw many people, friends that were killed, disappeared, family members too. Now, Benito Juárez helps other refugees, including the estimated 75,000 Indigenous Maya in Houston."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "9d860d97-416a-410b-bd9f-152a7e5d7f5b"
+    },
+    {
+      "start_time": 713,
+      "end_time": 738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On most days, he's in his office helping the newly arrived navigate the system that he too had once found difficult. He says many Central Americans are reluctant to seek help from government agencies, a legacy, he says, of the wars in the region. We are afraid to get together to seek support."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "7ab378e0-f2af-45c6-a70c-8d898002fd32"
+    },
+    {
+      "start_time": 738,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taking a left here on Hillcroft and we're in the-- there's a salsa, one of the salsa clubs here in the corner. And we're coming in here, which is the south part of Houston, the Gulfton area. And this has really blossomed and really grown, thriving now with the Central American Latino community. Up ahead to the right, you have a building. And that is the consul general of El Salvador. Anna Nunez drives through the south part of Houston. She was hired by the Census Bureau to reach out to the city's Latino immigrants. We're in the heart of America. We are at the pulse of the city. And this city, the heartbeat is just thumping at a million rates a minute."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "f2ec1dc1-35c4-4f04-8673-d3298c8337da"
+    },
+    {
+      "start_time": 785,
+      "end_time": 836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Nunez, a Mexican-American Houston Native, started her work for the 2000 count, she was surprised to see how large the Central American community had become and realized there is a gulf between the city's diverse Latino immigrants and its established Mexican-American community. In the Latino community, the interests are not the same for everyone, and people don't understand the different nuances. It's like this blanket statement covering a whole group of people. But yet, you have Hondurans and Colombians and Salvadorans and people from Nicaragua. And those people think differently, especially as it relates to their immigration status as compared to a Mexican-American who has a Social Security number and doesn't give INS a second thought."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "0f747509-94fe-4b54-a7ac-c5310adc0277"
+    },
+    {
+      "start_time": 836,
+      "end_time": 865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And while these many Latino faces may not look so different to the city's non-immigrant community, Nunez notes there are large differences between the newly arrived immigrants and longtime Mexican-American residents. Nestor Rodriguez says language is one major divider. So you have this huge Mexican-American population that's very functional in English, but only weakly functional in Spanish in public discourse. And they use Spanish at home when they're cooking or whatever that you do at home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "67dba02c-2792-4fdb-8d6b-8cdb03a1f640"
+    },
+    {
+      "start_time": 865,
+      "end_time": 904,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So many Mexican-Americans, when they see this wave of immigrants coming in from Latin America are hesitant to use their Spanish in front of the immigrants because they know it's not up to par. It's not the Spanish spoken in Mexico or Guatemala or whatever. So often, they use English. When the migrants see this, they think, well, the Mexican-Americans are ashamed of their culture. They're traitors. They're cultural traitors. And then the migrants can't use English because they don't know it. They only know Spanish. They're just coming in. So the Mexican workers are saying, why are these migrants using Spanish? This is America. Use English as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "f8990de8-f17e-42f0-9adf-240b440fd4e0"
+    },
+    {
+      "start_time": 904,
+      "end_time": 949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's interesting to me that as a child, the schools would expel us for speaking Spanish. Mexican-American Activist Maria Jiménez grew up in Houston's East End. She spends much of her time convincing recent Central American immigrants that even though their issues may be different from those of Mexicans or Mexican-Americans, they are all part of the same struggle. And I remember I would be surprised by the response of the Salvadorans who would tell me, well, yes, but that anti-immigrant sentiment is not against us, the Salvadorans, it's against the Mexicans. And they were right. It was a strong anti-Mexican feeling and the anti-immigrant feeling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "ade95b7f-035b-4caa-8100-e2df4f9e73f9"
+    },
+    {
+      "start_time": 949,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I would have to explain to them that in my experience here in Houston, there were non-immigrants who would refer to them, oh, yes, they're Mexicans from El Salvador, or they're Mexicans from Nicaragua. And as one Colombian told me, everyone here thinks we're Mexican. Observers say the changing Latino community in places like Houston"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "cd9ec6f6-e6f9-4fce-9a81-f16a07128ded"
+    },
+    {
+      "start_time": 973,
+      "end_time": 1006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "is forcing the established Hispanic organizations, which once only catered to Mexican-Americans to change. They also say other Hispanics have been slower to embrace this new immigrant group, many of whom are still noncitizens or undocumented. Mexican-American politicians are gradually realizing they will need the vote of the newly arrived immigrants. Now, some Mexican-American legislators in Texas are taking up immigrant issues, such as a bill which passed in the Texas Legislature making undocumented students eligible for university state aid."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Texas, United States",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "ca5fc7cf-d139-46cd-b2a8-e2c8fb49ccd6"
+    },
+    {
+      "start_time": 1006,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the same time, the immigrant communities are also beginning to develop their own leaders. Benito Juárez of the Houston Mayor's Office for Immigrant and Refugee Affairs dreams of a day when Central Americans will be elected to Houston City Council. We have a member of city council that is Guatemalan 10 years from now. And there is a Guatemalan running for city council in California. That motivates you, why not myself or somebody else? That's important."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "e8008697-c13f-4bd3-a0bb-ea6f5f638130"
+    },
+    {
+      "start_time": 1038,
+      "end_time": 1087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As in other cities where their numbers have grown, Houston's Central American community represents a diverse, young, and emerging force to be reckoned with, a force that is soon to become the future generation of citizens and voters. Now the established Mexican-American leadership, as well as mainstream non-Latino politicians of both parties will need to court newly registered voters like Maria, the daughter of Esteban Chanas of the El Quetzal bakery. Why it's important? Because every vote counts. The Hispanic were here to stay with part of the community. We need to make sure that we vote. I tell my dad to go vote. I tell my brothers to go vote. And we can. We will do it. You are all citizens. For Latino USA, I'm Deepa Donde, reporting from Houston, Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "3335c4f4-4dd4-4534-915e-742cdc52e1af"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I truly believe that people in the US know more Spanish than they think they do. Commentator Guillermo Gómez-Peña. And I wish to prove my point with a poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Poetry",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "fdf07d24-7376-448d-a96e-f309c1fddbdb"
+    },
+    {
+      "start_time": 1110,
+      "end_time": 1135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dear listener, repeat with me out loud, Mexico is California, Marruecos is Madrid, Pakistan is Londres, Argelia is Paris, Cambodia is San Francisco, Tukwila is Frankfurt,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Poetry",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "California, United States",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "553a2cdb-5020-4565-b172-42728e6f8cec"
+    },
+    {
+      "start_time": 1135,
+      "end_time": 1170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puerto Rico is Nueva York, Central America is Los Angeles, Honduras is Nuevo Orleans, Argentina is Paris, Beijing is San Francisco, is Nueva York, Nicaragua is Miami, Chiapas is Irlanda, Your house is also mine, your language is mine as well, And your heart will be ours ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Poetry",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Chiapas, Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "25eea00e-58ce-4443-adb0-3465c615fccd"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Commentator Guillermo Gómez-Peña is a performance artist based in San Francisco. The tiny Central North Carolina town of Robbins may well have the fastest growing Latino population in the country. In 1990, less than 7% of the town's residents were Latino. Today, almost half of them are. Dealing with such change is a challenge for the local school system, as it is for many school systems across the country, which must educate their youngest Spanish-speaking newcomers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "2ab0ab4b-f53f-4a46-a1f4-aa9702e1a800"
+    },
+    {
+      "start_time": 1196,
+      "end_time": 1242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But as Leda Hartman reports, teachers and children in Robbins, North Carolina, are coping with the influx in innovative ways. Yeah. When I had trouble with math, they said to do like this and like that. And that's how I got to learn. When Jose came to Robbins 213 Hartman, Leda 214 Hartman, Leda 215 Hartman, Leda Elementary School as a kindergartener two years ago, he hardly spoke any English. But that didn't last long. Jose says his teachers helped him overcome the language barrier. Did they explain things to you in English or in Spanish or both? In English. I will learn more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "2fb035b3-50b6-48e6-b38a-06933a519212"
+    },
+    {
+      "start_time": 1242,
+      "end_time": 1278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today in second grade, Jose is hard at work on an English essay. When he needs help, he can turn to his teacher or to Milagros Ortiz, the bilingual teacher assistant. I translate sometimes classroom instructions. And if they need help in their writing, they'll come to me and I will tell them exactly what to do and how to spell some words. And it's wonderful. I love them all. Not every school in the nation has bilingual teachers or classroom aides. But at Robbins Elementary School, which serves not just children from town, but also from outlying areas, there's not much choice, according to Principal Gail Dale."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "7a32a256-a0fe-41c9-b8c2-b5db48be5c27"
+    },
+    {
+      "start_time": 1278,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nearly half of the 526 students here are Hispanic. So we have to meet the needs of our total school population. If we don't do these things, we definitely would fail the children and fail the parents. It might seem surprising that a rural community of just 1,200 people would attract so many immigrants. But there are jobs in Robbins, the kind of jobs that many people from Mexico and Central America come to this country to do, working in poultry processing and manufacturing. In North Carolina, it's not uncommon to see factories and plants in rural areas where labor is cheap and job options few. It's also relatively cheap to live here, and Robbins is a lot like some of the rural places the immigrants came from."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "f2aff3db-ff7f-49c5-af02-802492654cce"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gabriela Lopez, a teacher assistant who was one of the first Latinos to arrive says that is a big attraction. Most of the people look in this small town because it looks like a community that they live in Mexico. I know it's different. It's not the same. But this is the kind of life that they want for the kids. Some educators at Robbins Elementary say Hispanics have encountered their share of hostility from long-term residents, but that has lessened over time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "8c95b3ed-9f7e-429a-ba97-af1d2335cba9"
+    },
+    {
+      "start_time": 1351,
+      "end_time": 1382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those who teach English as a second language, however, made it a point to be welcoming early on. ESL Teacher Lucy Muccio remembers the outreach she had to do a decade ago just to get Latino parents to send their children to school. They were not registering their children for school because they didn't know how. They didn't know if they were going to find any help, how they were going to walk into the school, and how could they tell them they wanted to register their child? But it so happened, we went to the community. We got the children. Over the years, the school has developed a multifaceted approach to teaching its Latino students."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "fc7f2eea-07ce-41a6-82c2-0c84ae415f1e"
+    },
+    {
+      "start_time": 1382,
+      "end_time": 1415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Robbins end of the county is low income. The rest of the county is actually relatively affluent, drawing revenue from golf resorts and retirement communities. And Robbins schools benefit from that. ESL instruction is available both in the regular classroom and in individual sessions. The school offers ESL for parents as well and has a full-time translator on staff. The translator works in a Parent Center at Robbins Elementary, helping Hispanics not just with their children's educational concerns, but also directing them to other community resources."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "b5183c4a-1079-443d-af0f-e7ec890bb438"
+    },
+    {
+      "start_time": 1415,
+      "end_time": 1452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ESL Teacher Victor Roman says it's important to find ways to keep kids and their families motivated. Some children, you have to perhaps use the sergeant face. Some of them is the pat in the shoulder. You're doing good. Some is, let's go see the Principal Ms. Dale. So make yourself visible, make yourself available. Go in there and visit some of the families, have some coffee with them, some taquitos. The main thing in this group is credibility and caring."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "6c2a2846-6fff-40e7-b0ae-debf6d4e7a61"
+    },
+    {
+      "start_time": 1452,
+      "end_time": 1471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The situation at Robbins Elementary isn't perfect. The staff would like smaller classes and a special program for newly arrived immigrant kids, no matter what their grade level. But they can point to success. By and large, their Latino students are learning English and going on to middle school."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "e182e07f-8fb6-4ed8-afde-9003860437e8"
+    },
+    {
+      "start_time": 1471,
+      "end_time": 1510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Down the road at North Moore High School, the situation is different. While there are well over 200 Latino students at Robbins Elementary School, there are only 35 at the high school. That's partly because the town has a greater number of younger Latino children, but it's also because of a high attrition rate. The older the Latino kids get, the harder it is to keep them in school. Some don't see a future in academia, especially if they're here without legal papers, which makes it next to impossible for them to go on to college. A relatively high number of Latina girls get pregnant and drop out. And teenagers of both sexes, says high school ESL Teacher Mike Duncan, feel pressure to go to work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "be26f41b-5002-46db-ae78-b5df40c25f19"
+    },
+    {
+      "start_time": 1510,
+      "end_time": 1540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're not drawing from the lawyers and the doctors and the elite of Mexico here. So the kids we're getting are from poor social backgrounds. A lot of their parents see them as coming here, reaching the age of 16, and then going to work, help pay the rent, help pay for the younger kids, help pay for whatever their needs are for the family. Duncan says he's waging a cultural battle, as much as an economic one, with parents who haven't had much schooling themselves and don't see it as a priority. He says he tells parents point blank their kids should stay in school and graduate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "6b283215-19e2-4747-b7f9-e239b1f93d32"
+    },
+    {
+      "start_time": 1540,
+      "end_time": 1587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't see any give on our part. This is an American way of life. This is what we expect out of kids. We don't expect American kids to come and go two years and then drop out and become a mechanic or whatever, dishwasher or fast food waiter or whatever. We expect them to come and finish four years. Duncan has seen some improvement in his six years at North Moore High. When he first came, he says most of his Hispanic students were there for a short while just to learn enough English so they could get a job. But with efforts to integrate these kids into the totality of school life, that's beginning to change. We've only had one kid drop out this year out of 37 some kids. And how does that compare to past years? Well, I wouldn't even think about it. We've had half of them drop out. We've had 10 walk in the door and five turn around and walk out by Christmas. Bells might ring like twice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "03840f81-e3c6-4a35-a3de-32d738a86b43"
+    },
+    {
+      "start_time": 1587,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The half dozen young men in Duncan's afternoon ESL class say they know plenty of kids who have dropped out. Because they don't like school. They want to make some money. Yeah, because they want to buy the cars, all that stuff. So far, these kids are planning to stay. Several of them are on the school soccer team, which requires them to pass three out of four courses and maintain an 85% attendance record. But there are other reasons for hanging in there, says Alfonso, who's a junior at North Moore High. Because in the future you can't be useful. The ones who leave school now have more problems getting work. And as a student, you have more options."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "1675349a-6d46-4219-b105-e52e60feabf8"
+    },
+    {
+      "start_time": 1628,
+      "end_time": 1658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ben, Alfonso, and the others shift easily into English, again, when they talk about their goals. I want to be a lawyer. Yeah. I want to be a policeman. I want to be a soccer player. I want to be a soccer player. I'm a architect. I don't know. Superman. For Latino USA, I'm Leda Hartman in Robbins, North Carolina."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Children of immigrants",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Robbins, North Carolina, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "6144ec76-4bd1-4671-8175-eea79689dd05"
+    },
+    {
+      "start_time": 1658,
+      "end_time": 1701,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, this has been Latino USA. This week's special report, Latinos and a Changing America, was produced by Angelica Luevano, Walter Morgan, and Alex Avila. The contributing producer was Michelle Garcia. The editor and executive producer is Maria Martin. We had additional production support from Andrea Valdez, Dean Graber, Alicia Rascon, María Ángeles Flores, and Neal Rausch. Further information about Latino USA is available on the web at latinousa.org. You can also call our listener comment line. It's 1-800-535-5533. And our email address is lusa@npr.org."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "537de82e-6c54-4342-9da1-2e3f203af4db"
+    },
+    {
+      "start_time": 1701,
+      "end_time": 1744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Support for Latino USA comes from the Ford Foundation, the Center for Mexican-American Studies, and KUT Radio at the University of Texas at Austin. Additional support from the William and Flora Hewlett Foundation and National Public Radio, whose contributors include the John D. and Catherine T. MacArthur Foundation. I'm Maria Hinojosa. Join us, again, next time for Latino USA. This is NPR, National Public Radio."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "25f350f3-32f4-458f-bf0e-48f02d8f2ee9"
+    }
+  ],
+  "set": "Default",
+  "event_id": "1b7ee5ce-c10f-4bce-aad9-17a7c6dcc517",
+  "source_id": "de5393de-9c2a-4c29-a73e-d3e410af51d2"
+}
