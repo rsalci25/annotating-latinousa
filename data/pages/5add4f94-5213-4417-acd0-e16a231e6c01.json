@@ -4,11 +4,12 @@
   "created_by": "rsalci25",
   "title": "Episode 449",
   "slug": "episode-449",
-  "updated_at": "2026-10-30T05:14:24.020Z",
+  "updated_at": "2026-10-30T18:27:24.194Z",
   "updated_by": "rsalci25",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "917ca534-9831-45e5-a6e4-de7d8be6bcec"
-  }
+  },
+  "parent": "dfdf05c6-16f9-4ee3-924f-8ee8ea461017"
 }
