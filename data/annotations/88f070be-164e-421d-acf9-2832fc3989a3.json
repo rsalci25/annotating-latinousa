@@ -1,1 +1,1655 @@
-{"annotations":[],"set":"Default","event_id":"479ee889-5e51-48ba-ae4b-a9256e7758f5","source_id":"8dd71d4a-66e5-4814-acd3-008f3e55e52b"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio journal of news and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0de05753-eaa4-4055-ad60-2e3f51799a07"
+    },
+    {
+      "start_time": 5,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa. This week on Latino USA. Increased border security and its impact on local residents. This situation is squeezing us hard. This week, I may have to fire one of the guys because there isn't any money. Just two weeks ago, I had a similar problem. I couldn't get my paycheck because we had to pay one of the employees and there is no money. Also, after a critically-acclaimed debut album and nonstop touring, the East L.A. band, Ozomatli is back with a new CD. And some thoughts on fear, familia, and New York City. This and more on this edition of Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "East Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "8338aacd-b862-46fc-91b7-a987984d729c"
+    },
+    {
+      "start_time": 59,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For this week, this is news from Latino USA. I'm David Alvarez. Cuban authorities have launched a major effort to get the country back to normal following the devastation caused by Hurricane Michelle. From Havana, the BBC'S Daniel Schweimler has more. Electricity and telephone lines are slowly being re-established across Cuba. Rescue teams are reaching isolated areas and people are gradually being allowed to return to the homes they evacuated. It's still too early to put a precise figure on the damage caused by the storm, but there's no doubt that it left large areas of the island devastated. In Havana alone, which did not catch the full force of the hurricane, almost 200 buildings collapsed, a large part of the citrus crop in the center of the country was ruined, and Cuba's sugar industry, its main export, could take some time to recover."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Havana, Cuba",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "bdbaea0b-967d-4610-8eed-510c01ed1418"
+    },
+    {
+      "start_time": 106,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Remarkably, just five people were killed. Thanks largely to the huge civil defense operation, more than 700,000 people were evacuated. The Cuban leader, Fidel Castro, was soon on the scene. He's not asked directly for humanitarian aid. The U.S. has said it will help if asked. Normality is fast returning to the island, but it will take some time to assess the long-term economic implications of Hurricane Michelle's visit to Cuba. For Latino USA, I'm Daniel Schweimler in Havana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Havana, Cuba",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "e9641708-b7ff-4664-ad98-9f1d6253c40d"
+    },
+    {
+      "start_time": 134,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Nicaragua. Former Sandinista leader Daniel Ortega has lost his third consecutive presidential election. More from NPR'S Gerry Hadden. Daniel Ortega campaigned on the promise that he'd left his Marxist revolutionary days behind. In 1979, Ortega helped overthrow the U.S.-backed dictatorship of Anastasio Somoza, founding a socialist regime that defied the United States. After a decade of counter-revolution and hardship, Nicaraguans voted Ortega out of power in 1990. He lost again in 1996. In his latest campaign, the Sandinista party leader said he'd come to embrace free-trade principles and wanted to mend fences with the U.S. It was not enough for voters who elected conservative businessman Enrique Bolaños by a wide margin. For Latino USA, I'm Gerry Hadden in Managua."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nicaragua",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "347f0438-57dd-474e-9775-37e9797aa795"
+    },
+    {
+      "start_time": 180,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In New York City, Latino voters crossed over to the Republican side like never before in this year's race for mayor to help elect Mike Bloomberg, a billionaire businessman who was a long shot up until a few weeks ago. WNYC's Cindy Rodriguez reports. Some say the crossover happened because Latinos were angry at Democratic candidate Mark Green for running what some called a racist campaign against his Puerto Rican opponent, Fernando Ferrer, in the primary. But Angelo Falcon, a senior policy executive with the Puerto Rican Legal Defense and Education Fund, says Latinos have felt taken for granted for a long time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "14473a23-26dc-4fdc-bd54-cfa670462fb8"
+    },
+    {
+      "start_time": 215,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think there's been a March to the right by white liberals since Bill Clinton took over and being basically exemplified by the kind of politics of Mark Green and the other white liberals that were running. Falcon says the more important question is, will the Democratic Party finally stand up and pay attention? For Latino USA, I'm Cindy Rodriguez in New York. This is news from Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "3638e9ef-5f11-452f-b30a-f0abd7747283"
+    },
+    {
+      "start_time": 240,
+      "end_time": 268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latinos in Texas had an impact this past election day. Not only as voters, but also as candidates. Latino USA's Deepa Dande reports. The first elected Hispanic mayor of Austin, Gus Garcia, has come a long way from 1967, when he began his political career amidst the turmoil and unrest of the Civil Rights movement. Garcia won over 60% of the vote. In Houston, current mayor Lee Brown, an African-American Democrat, and Republican, Orlando Sanchez, will face each other again in a runoff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Texas, United States",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "2f9352e6-26e7-4caa-b75c-58648cd3d1ba"
+    },
+    {
+      "start_time": 268,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marcelo Gaete is with the National Association of Latino-elected Officials. The Latino community has made remarkable strides both in the quality of its candidate. But in addition to that, the Latino community itself is voting in greater numbers. So every year from now on, you're going to see a greater seeking out of the Latino vote. Statewide, voters also approved $175 million in bonds for building roads in underdeveloped border communities known as colonias. For Latino USA, I'm Deepa Dande in Austin, Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Texas, United States",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "faf72209-fd35-416b-a498-623b189cac81"
+    },
+    {
+      "start_time": 296,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In California, a panel of federal judges has rejected a request to postpone primary elections for four new congressional districts. Civil rights groups argued that the elections would hurt Latino voting power. Latino USA's Mandalit del Barco reports. MALDEF attorneys had hoped to postpone primary elections next March, alleging that Democratic legislators drew new congressional districts in L.A. and San Diego counties in order to protect white incumbents from potential Latino challengers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Voter suppression",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "California, United States",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "San Diego, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "8f1ca58e-d521-496d-bfad-06612e1643bd"
+    },
+    {
+      "start_time": 324,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Among the allegations in a lawsuit filed by MALDEF, the redistricting will remove thousands of Latino voters from a district currently represented by Congressman Howard Berman, thereby diluting their representation. A three-panel judge turned down a temporary restraining order filed by the civil rights group, saying that the public needs regular undisrupted elections. MALDEF leaders say they will continue to push for another hearing to prove that the voting power of Latino voters is being diluted. For Latino USA, I'm Mandalit del Barco in Los Angeles. In Austin, Texas, I'm David Alvarez. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Voter suppression",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "California, United States",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "fe5f675f-853e-4c43-8ca5-d6a5be02f0b1"
+    },
+    {
+      "start_time": 359,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6bab4706-fbdb-4f27-a9e9-fd796917168e"
+    },
+    {
+      "start_time": 391,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a question I've become accustomed to hearing. Aren't you afraid? Over the last decade in my career, some people have thought that some of the things I've done might not have been all that safe. But I didn't feel fear until now. So I've spent many a recent subway rides, often the only quiet time for myself in the day, thinking about my new life and new fear. I took stock of my past. 20 years ago, mi abuelita wanted to know why I wasn't afraid to leave my family in Chicago behind to move to the big, bad city of New York? Then mis papas, my parents wanted to know if I was afraid of living in the hood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "6c1b6a6c-b9e1-4e16-b0a4-1e0895275860"
+    },
+    {
+      "start_time": 429,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In New York as a college student, I remember the first time I saw a gun on the streets. The first time a shooting broke out and I jumped to the floor of the bus and heard bullets zing by. I was over it in about a day. As a young journalist, I remember the war zones I reported from. The '89 offensive in El Salvador, I took a plane into the country when everyone else was trying to leave. I remember the sound of the bombs from my downtown hotel room, the helicopter gunner flying low above our heads. I was afraid here and there, but it went away quickly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "79faea77-788a-4dd4-a915-f6da99287517"
+    },
+    {
+      "start_time": 463,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I remember traveling to the Frente as the Sandinistas looked for contras, the bombed out roads in Shining Path-controlled lands in Peru, the visit to Medellín, the looks of the Sicarios, the hired killers as we drove around in their neighborhoods. The park late at night with gang members in Queens, the midnight street in the South Bronx, the secret meeting with the skinhead, his Hitler tattoo taunting me from his neck. And up until a few years ago, I remember the kids on my street corners with their catcalls for drugs and the turf battles, and the little boy shot down the street and the sound of gunfire in the middle of the night. Yes, there was fear, but only sometimes and always manageable. Never too deep, never too long."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "fd43e4c0-c3b7-4202-907e-540420f72577"
+    },
+    {
+      "start_time": 505,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So why am I afraid now? Why am I afraid when I remember running down the street screaming after I saw the World Trade Center collapse from 20 blocks away. Why am I afraid that my city has become a war zone? Why am I afraid when I stand back and look at the world now and see no clear way out but instead landmines up and down the Atlas? Why am I afraid sometimes to ride the subway or open the newspaper? Why, if fear wasn't there once, did it show up now? Because the one thing that's changed is that now I have children, two delicious kids who have no idea how bad it really is. And I have a husband who worries about me every minute of every day when I walk out the door and go to work as a war correspondent on the way to Ground Zero in a subway."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "cb55739c-ca47-41d3-865e-5630961f4bac"
+    },
+    {
+      "start_time": 551,
+      "end_time": 585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I figured it out now why I am so afraid. Porque soy mamá. Because I'm a mom. So what am I going to do about it?, I murmur to myself as the subway gets closer to my stop. And then I get out on the street, and I get my answer. I look at all my fellow New Yorkers who have made the city streets theirs once again. I look at the teens kissing and making up on their way home from school. I see the moms going to work and the dads with suits on, and the subway conductor and the paisanos delivering pizza, and the tourists, the ladies from Virginia who weren't going to cancel their trip no matter what."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "9049d9a4-8aa7-4afb-92d4-223c5bff28bb"
+    },
+    {
+      "start_time": 585,
+      "end_time": 635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And those women teach me the lesson I learned about my fear. The whole country is learning from you, one Virginia lady says with a Southern drawl. Learning from you to have courage and stand up and not stay locked up indoors. The whole country is learning from the spirit of your city and your people. So when I get fearful deep, deep, deep inside, and it happens often, I go outside with my kids and my husband and go to the park and play, or to a museum or to Times Square. And I learn how to feel courageous, slowly, tentatively, but committed with my kids and my husband and my city by my side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "2440d4b1-ea74-4c14-a586-b5c6873cc3d0"
+    },
+    {
+      "start_time": 635,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since the September 11 terrorist attacks on the United States, the federal agencies that guard the borders with Canada and Mexico have been at their highest state of alert. But increased inspections at the international bridges from Mexico are slowing down traffic and burdening the already weak border economy. From member station KTEP in El Paso, Brenda De Anda has this report. As hundreds of cars inch their way through the border bottleneck, people who cross the Paso Del Norte international bridge by foot wait patiently under the 80-degree heat. Children lean against their mothers, their faces glistening with sweat, while grownups make small talk to pass time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Customs administration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "El Paso, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "8d28914c-3d24-416e-8840-b561efa1489f"
+    },
+    {
+      "start_time": 678,
+      "end_time": 724,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It took an hour and a half. 43-year-old Maria Vera went to Ciudad Juarez to visit her family. She just crossed the immigration checkpoint. I haven't gone for, like, two months. It's my first time because I was afraid to spend a lot of time in that line. I bring my water and my snack because I'm diabetic. So, I was afraid to take too long on the line. But it wasn't too bad. Truth is, it could have been worse. Immediately following the terrorist attacks, people who crossed into the U.S. saw the wait times quadruple because of the increased inspections."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "El Paso, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "28e73929-c871-4c3a-bcb4-c57578c8c414"
+    },
+    {
+      "start_time": 724,
+      "end_time": 756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leticia Zamarripa is a spokeswoman for the Immigration and Naturalization Service in El Paso. Security at our border right now is at threat level 1 alert, which is maximum security alert. The inspectors are checking trunks, they're checking hoods, they're checking the interior of vehicles, any compartments in the vehicle, questioning the commuters, the passengers, and vehicles much more carefully than they did before September 11."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Customs administration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "El Paso, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "7a7162ab-4725-44b4-a70d-6bf24a5c0860"
+    },
+    {
+      "start_time": 756,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On an average day, 125,000 people cross through the El Paso border region during the month of August. In September, that number dropped to 99,000, leaving businesses on both sides of the border in their own state of alert. 214 Anda, Brenda De 215 Anda, Brenda De 216 Anda, Brenda De Just beyond the Paso Del Norte bridge in downtown El Paso, employees at the bargain store Alrio sing the sale of the day. 219 Anda, Brenda De The store opened just three months ago, just in time for the holidays. But now manager Raul Alvarado says they don't know how much longer they'll be open."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Customs administration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "El Paso, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "8d3e738a-b927-4c63-82ae-0f41b608f3fd"
+    },
+    {
+      "start_time": 799,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This situation is squeezing us hard. This week, I may have to fire one of the guys because there isn't any money. Just two weeks ago, I had a similar problem. I couldn't get my paycheck because we had to pay one of the employees and there is no money. Alvarado is not alone. Businesses along the 2,000-mile border report their sales are down by 50%. In places such as San Ysidro, California, that number has climbed to 80% for businesses that depend on customers coming in from Tijuana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "El Paso, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "694c0a00-241a-4943-86ed-a981b71a4729"
+    },
+    {
+      "start_time": 833,
+      "end_time": 860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The INS office in the Matamoros-Brownsville area has even produced a radio spot, encouraging people in Mexico to continue doing business with the U.S., in spite of the long lines. \" 234 Anda, Brenda De The U.S. is going through difficult times,\" the spot says. \" That's why the inspections have increased at the international bridges, causing some delays. Thank you for your patience.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "41d6332b-835f-4183-81dc-3f0c81f2a9e6"
+    },
+    {
+      "start_time": 860,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But the traffic slowdown is not the only thing keeping people from entering the country. Since October 1st, hundreds of Mexican citizens who visited the U.S. on day trips have been turned away at the border because they don't have their proper documents. Congress gave the INS five years to phase out the old border crossing cards and replace them with so-called smart cards. The laser visas have a magnetic strip that store a person's information, along with a photograph and fingerprints."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Customs administration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "573446bb-87cc-41a3-895f-1c6a328890fb"
+    },
+    {
+      "start_time": 888,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Again, Leticia Zamarripa. So yes, this hit right at the time where inspections were really intensified at the ports of entry, where when the lines were really long, the ports of entry were congested. And we had to plan. We had to plan and make do to be able to return people back to Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Customs administration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "7c07a1cc-b9b9-4981-aeeb-75155b3cc1e5"
+    },
+    {
+      "start_time": 911,
+      "end_time": 941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just a week later, delays at the bridges got even worse after the INS implemented the IBIS check. The Interagency Border Inspection System is a database used by more than 20 federal agencies, including the FBI and the Interpol. Inspectors at the bridge check every person that enters the country by foot by swiping their ID through a computer, much like the ones at the supermarket. The background check takes seven or eight seconds per person, adding hours to the border commute."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Customs administration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "16140b24-40d7-40f1-b121-fb3cf6a24f6f"
+    },
+    {
+      "start_time": 941,
+      "end_time": 972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So a lot has happened since September 11 at our ports of entry, and we realize-- INS realizes that a lot of it is an inconvenience to the traveling public. But our top priority right now is our nation's security. And that is why we are continuing with intensified inspections. That is why we're doing 100% IBIS checks, because we want to be very careful as to who we let into the country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Customs administration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "8c2208c8-e101-48a9-a89a-bc645a730c2e"
+    },
+    {
+      "start_time": 972,
+      "end_time": 999,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Paso Congressman Silvestre Reyes says the federal government should send more money and resources to the border. He and other legislators have already asked President Bush to declare a state of emergency in the area, but that proposal is still pending. We know that we cannot seal this border. We shouldn't even attempt to seal the border. We should find a way to facilitate commerce, travel, tourism, and the ability to screen those that are coming into this country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "El Paso, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "2401877c-e130-4bdc-a123-5e0a5a8b4a7b"
+    },
+    {
+      "start_time": 999,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With the holiday season fast approaching, employees at Al Río hope their sales will once again surge. But for now, the only thing anybody can do along the border is wait. For Latino USA, I'm Brenda De Anda in El Paso. ( SINGING) Check it out The way you're feeling on the outside"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "El Paso, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "c40fa64b-c4d4-4bb0-a534-fb57833abd89"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After a critically-acclaimed debut album and nonstop touring for three years with everyone from Dave Matthews to Santana, the East LA band Ozomatli is back with a new CD. The group, which describes itself as a Black, Chicano, Cuban, Japanese, Jewish band, uses rock, Latin, Funk, and hip hop to create its own style of music with a message. From Chicago, Yolanda Perdomo has our story. ( SINGING) We trek this battlefield life with words to slay the doubters expect no knives It's only common sense the heart is more prevalent But the stab to someone's back is much more appealing We trek this battlefield life with words to slay the doubters, quitters, cowards"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "East Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "62d2a4b2-e937-4ee6-a8d9-044cf248932a"
+    },
+    {
+      "start_time": 1070,
+      "end_time": 1114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ozomatli's new album is called Embrace the Chaos. But guitarist Raul Pacheco says it isn't about rebellion or anarchy but, in fact, tolerance. Everything from different musical styles to different opinions. Yeah, it definitely has to do, I think, with it's from a place of love. It's from a place of respect, I think. It also 296 Pacheco, Raul 297 Pacheco, Raul 298 Pacheco, Raul 299 Pacheco, Raul like to deal with-- it takes a lot of acceptance, I guess, to deal with all the different attitudes that people have in this world and in order to get to a place where you actually find a connection. I think that's more of where it's coming from."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "b8eb2535-3513-43e7-92ab-17d0a1f69dc8"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Members from all different ethnic and cultural backgrounds make up Ozomatli, which got together in the mid '90s out of a benefit performance for an L.A. community center. They haven't forgotten their roots, and they continue to play for a variety 307 Hinojosa, Maria of 309 Hinojosa, Maria political 311 Hinojosa, Maria 312 Hinojosa, Maria causes close to their hearts. According to bassist Wil-Dog."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "0e4d76e8-ca71-4456-ab5d-d28e98ba339a"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think as individuals, some of us are active and would be active even if, let's say-- or before Ozomatli was even a band. And I think when you have a band like us, who we really, I think, we're always committed to staying by the people. So I think it's like when that's a conscious thing and there's certain things that we know and are conscious of and so to us it's part of who we are as people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "49931946-1e12-4395-9c7f-2c730ed9d206"
+    },
+    {
+      "start_time": 1213,
+      "end_time": 1241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the band became more recognized, offers came in from everywhere. Ozomatli has appeared in HBO'S Sex and the City and the Drew Barrymore movie Never Been Kissed. Their songs were also featured in other films, including EDtv and You Can Count on Me, but they declined to have their music on the soundtrack of The Road to El Dorado, the animated story of two Spanish conquistadors who stumble upon the famed city of gold somewhere in Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "fcb9ad9a-df13-4103-b79f-59e32e761f9b"
+    },
+    {
+      "start_time": 1241,
+      "end_time": 1305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitarist Raul Pacheco and bassist Wil-Dog say it's a constant struggle to balance getting paid with what they view as selling out. It's a lot of money. It's a good living to do that. It could be exciting, da da da da da. There's all these benefits. But there's for us, there's a place where you have to take a stand. It's all about what we can live with. It's like we understand our music serves a purpose for people. It's like, can we live? It's all being compromised. I mean, once you're selling-- once you have somebody else selling your music for you and putting a dollar on it, and you making way less than anybody else in the chain, it's all a compromise. It's like at this point, it's like, what can we live with doing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "ad40ae31-af7c-4e84-a5e0-195fd63083e7"
+    },
+    {
+      "start_time": 1305,
+      "end_time": 1349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While Ozomatli tries to balance the demands of the music business with their desire to stay active in social and political causes, their fan base continues to grow and is as diverse as their musical influences. This month, Ozomatli wraps up a European tour before continuing with U.S. dates, which will take them into 2002. For Latino USA, I'm Yolanda Perdomo in Chicago. 362 Hinojosa, Maria 363 Hinojosa, Maria"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Chicago, Illinois, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "2640909a-c745-47a8-b319-dbefe565d9b3"
+    },
+    {
+      "start_time": 1349,
+      "end_time": 1389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's been said that the terror attacks of September 11 and the subsequent anthrax scare wouldn't have been believable if Hollywood had dreamed it up. But for biology professor Vernon Avila, a former expert consultant with the National Institute of Health, both science and fiction are serious topics. I decided that one of the things I wanted to do was to write a medical mystery and write the first medical mystery that has a Latino as a hero. The author of two biology textbooks, Dr. Avila recently published his first medical mystery novel entitled Smokescreen. Earlier this summer, he spoke with Latino USA executive producer Maria Martin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "a079f2cd-6207-4fcd-ae24-bdb0750eb774"
+    },
+    {
+      "start_time": 1389,
+      "end_time": 1422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr. Avila, I was wondering, what did you want your readers to think and feel when you set about to write Smokescreen. To me, whenever I read a medical thriller, I like the science to be plausible. I realize it's not a textbook and 100% accurate, but it needs to be plausible for me in order to move me through the story. And this is very, very plausible. As a matter of fact, some of the scenes that I wrote two or three years ago have now become realities. For example, some of the models for Alzheimer's disease and so on that I've discussed in this story, indeed are now real."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "e43dbc88-1e69-473c-bdce-6ff43656e6d1"
+    },
+    {
+      "start_time": 1422,
+      "end_time": 1461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your book, Doctor Vernon Avila, has been called the first Latino medical mystery. And I'm wondering if you see yourself as breaking boundaries both as an author and a scientist. Well, in some ways, yes. I think I didn't realize that my love and passion for writing was something that not all scientists share. I think that in some ways, I've broken ground in that I decided that, yes, I would write fiction. Others have, of course, but I've broken ground and that I've decided to write medical thrillers that, of course, have a Latino protagonist. \""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "72db1218-5f2a-4fca-b9cd-7f075d7b1da2"
+    },
+    {
+      "start_time": 1461,
+      "end_time": 1501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hueso, one of the Embera Choco people, lifted a long blowgun to his lips and gave it a quick puff. The dart, made from the rib of a palm leaf and fletched with fluffs from the Kapok plant, had been tipped in neurotoxic secretions from Phyllobates terribilis. A monkey fell from the tree convulsing, then went rigid with a grimace on its face that reminded Eloy of his father's death mask. \" You got him,\" Eloy shouted. Phyllobates terribilis lived in the lowland area of Eastern Colombia. Eloy knew that to touch the frog would be foolish and fatal, but Hueso showed Eloy how to catch the frogs by grabbing their feet with a tobacco leaf as protection from the toxins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "5de96302-aad2-4d54-b4aa-cb26ea907a6f"
+    },
+    {
+      "start_time": 1501,
+      "end_time": 1526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hueso also taught Eloy how to gauge the toxicity of the frog's secretion without harm, by holding the frog in a tobacco leaf and tasting the skin with his tongue. Eloy was always impressed with the practical knowledge of the Indians. They didn't know that saliva contained chemicals that broke down the toxin. They only knew that they could gauge the amount of toxin by the degree of numbness of their tongue.\" It's always fun to create story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "15576439-6849-423e-8227-f74804e720da"
+    },
+    {
+      "start_time": 1526,
+      "end_time": 1579,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As I understand it. When you were growing up, you weren't necessarily the typical A student that one could predict would be a scientist and a teacher and a writer. I wasn't voted most likely to succeed by my teachers, that's for sure. But I guess the thing that has always motivated me is that I think it's exceedingly important in our society that we recognize the diversity of all peoples in our society. And I don't really think society cares about the color of the skin of an individual who finds the cure for cancer. But unfortunately, society sometimes will put, shall we say, undue hurdles before people because of the color of the skin, or because of their gender, or because of their social economic status. So I hate to see society possibly wasting some talents that exist out there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "e8139914-98ea-409a-be92-5c3c2eefdb49"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I've always sort of made it my life's passion to rectify the underrepresentation of minorities in research, especially biomedical research, which is my area. And I've tried to do this in many, many ways. I'm the founding father of a national-- I'm one of the founding fathers, I should say, of a national organization called SACNAS, which is the Society for the Advancement of Chicanos and Native Americans in Science. And it's one thing that I'm very, very proud of because I wanted to show to all peoples that talent in science can be found among all peoples."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "6bdebfb3-f6b9-427a-9a57-8611282ee002"
+    },
+    {
+      "start_time": 1615,
+      "end_time": 1626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latino USA's Maria Martin spoke with Dr. Vernon Avila, professor of biology at San Diego State University and author of the novel Smokescreen. It's published by Penmarin Books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "San Diego, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "fcef2aef-282e-4465-a85d-1dc161923dc0"
+    },
+    {
+      "start_time": 1626,
+      "end_time": 1659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As we close out this show and the nation prepares for the holidays, Latino USA wants to hear from you, our listeners, for Thanksgiving. In light of this new world. We'd like you to tell us what it is that you're thankful for. Call us with your comments at 1-800-535-5533 or email us at lusa@npr.org. And we may use some of your comments and emails on our program."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "be0b8bcd-4e9c-469a-8c6e-cf9bed0e5a11"
+    },
+    {
+      "start_time": 1659,
+      "end_time": 1719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, this has been Latino USA, the radio journal of news and culture. Thanks for listening. Gracias por su atención. Latino USA was produced this week by Alex Avila and Walter Morgan. The contributing editor was Mandalit del Barco. We also had help from Andrea Valdez, Richard Gonzales, Dean Graber, Ingrid Lobet, and Chris Tsakis. Again, our listener comment line is 1-800-535-5533 and our email address is lusa@npr.org. This week's program is number 448. Support for Latino USA comes from the Ford Foundation, the Center for Mexican-American Studies, and KUT radio at the University of Texas at Austin. Additional support from the William and Flora Hewlett Foundation, the Trail Foundation, the National Endowment for the Arts, and National Public Radio, whose contributors include the John D. And Catherine T. MacArthur Foundation. I'm Maria Hinojosa. Join us again next week for another edition of Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "81eeb8fc-7bc7-4956-b979-b0e1056c1a68"
+    },
+    {
+      "start_time": 1719,
+      "end_time": 1744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is NPR, National Public Radio."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b466622a-f6f9-44b4-9caf-dfcd12b50549"
+    }
+  ],
+  "set": "Default",
+  "event_id": "479ee889-5e51-48ba-ae4b-a9256e7758f5",
+  "source_id": "8dd71d4a-66e5-4814-acd3-008f3e55e52b"
+}
