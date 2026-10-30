@@ -4,15 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "heading-one",
-      "children": [
-        {
-          "text": "Annotating Latino USA: Immigration, Policy, and Culture"
+          "text": ""
         }
       ]
     },
@@ -171,18 +163,57 @@
                 },
                 {
                   "text": ""
-                },
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
                 {
-                  "type": "link",
-                  "url": "https://www.arcgis.com/apps/mapviewer/index.html?webmap=ce94f8cd3f6049ebab968df5fa950809&center=-78.671872%2C28.648242&scale=147914381.897889",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "layout": [
+                6
+              ],
+              "children": [
+                {
+                  "type": "column",
                   "children": [
                     {
-                      "text": "Interactive ArcGIS Map",
-                      "textSize": "heading-four",
-                      "underline": true
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "",
+                          "bold": true
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://www.arcgis.com/apps/mapviewer/index.html?webmap=ce94f8cd3f6049ebab968df5fa950809&center=-78.671872%2C28.648242&scale=147914381.897889",
+                          "children": [
+                            {
+                              "text": "Interactive ArcGIS Map",
+                              "underline": true,
+                              "bold": true
+                            }
+                          ]
+                        },
+                        {
+                          "text": "",
+                          "bold": true
+                        }
+                      ]
                     }
                   ]
-                },
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
                 {
                   "text": "We have also integrated a map (hyperlinked above) identifying specific geographic regions mentioned throughout the episodes to understand how these places are represented and shaped by immigration discourses. This provides users with the opportunity to more easily navigate episodes based on geographic relevance while identifying broader patterns and trends in conversations about immigration."
                 }
@@ -221,7 +252,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "Annotated Episodes",
+                  "textSize": "heading-four"
                 }
               ]
             },
@@ -268,9 +300,35 @@
                 {
                   "text": "Citation",
                   "textSize": "heading-four"
-                },
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "layout": [
+                6
+              ],
+              "children": [
                 {
-                  "text": "Latino USA Records, Nettie Lee Benson Latin American Collection, University of Texas Libraries, The University of Texas at Austin."
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": "Latino USA Records, Nettie Lee Benson Latin American Collection, University of Texas Libraries, The University of Texas at Austin."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             }
@@ -290,7 +348,7 @@
   "created_at": "2026-10-29T10:27:25.170Z",
   "created_by": "rsalci25",
   "title": "Annotating Latino USA: Immigration, Policy, and Culture",
-  "updated_at": "2026-10-30T19:35:30.204Z",
+  "updated_at": "2026-10-30T19:43:42.913Z",
   "updated_by": "rsalci25",
   "autogenerate": {
     "enabled": false,
