@@ -1,5 +1,1768 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio journal of news and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5be730b9-0693-48ff-a936-5159543c2bdf"
+    },
+    {
+      "start_time": 5,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "92ad4ccf-5f2d-4acf-afcc-5b1793c0857d"
+    },
+    {
+      "start_time": 13,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This week on Latino USA, a plane crashes in New York, and there's mourning once again in the city's huge Dominican community. I don't know. Everybody was feeling bad and everything. And the heart was broken because a lot of Dominicans died in the World Trade Center. So now this happened, too? Another plane? What's wrong?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Washington Heights, New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "217364cc-b9df-4ecf-8183-d69d46b3f6ac"
+    },
+    {
+      "start_time": 33,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, Washington's immigration policy, a new focus in light of the war on terrorism. At first glance, it's not affecting the Latino community, but we know from our experience that many liberation movements and organizations in Central and South America have been deemed terrorists at various points. And so I think this is an issue of concern to the community as well. And a Thanksgiving family story-- this and more on this edition of Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "a4e7218e-828f-439e-8ad3-d3b2c6970c59"
+    },
+    {
+      "start_time": 60,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For this week, this is news from Latino USA. I'm David Álvarez. Mexican president Vicente Fox triggered political controversy recently by submitting his federal budget for 2002. The Fox proposal is forecasting yet another difficult year for the Mexican economy. Growth is expected to come in at just under 2%. The proposed budget calls for a salary raise for the president. Opposition members in the Mexican Congress have been hounding Fox over that issue, putting the Mexican president on the defensive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "cd050976-c3db-4973-9b71-3ee04b311d2e"
+    },
+    {
+      "start_time": 92,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How can you be sure that these salary increases exist? Do you know what they are? In a while, we would clarify these budget items, but for now, I defer the discussion for a later time. Federal employees would also see a 6% pay raise, and money for public projects would fall 20%."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "3b897689-60da-4bfd-af38-5ce8ed5894c5"
+    },
+    {
+      "start_time": 112,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another hot subject President Fox is trying to avoid is abortion. Polls show that Mexico's mostly Catholic and conservative society is divided over the issue. More from Latino USA's Franc Contreras in Mexico City. Health officials from across Latin America gathered at a conference in Mexico to learn about technology that can make abortions safer. Each year, some four million abortions are carried out in secret in Latin America, where Roman Catholic morals dominate the debate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Abortion (Canon law)",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico City, Mexico",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "95d111b4-324d-4af5-81f7-f6de8842cf22"
+    },
+    {
+      "start_time": 140,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marta Lamas is the director of Mexico's Information Group on Reproductive Choice. It's going to take us many years to conquer the right of having this decision understood as a personal right and not as a political decision of the church or of the government over the lives of the citizens. A small group of protesters accused conference organizers of starting a movement to legalize abortion in Latin America. For Latino USA, this is Franc Contreras in Mexico City."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Abortion (Canon law)",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Mexico City, Mexico",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "5356bb4e-e130-4d50-ac0d-d85b1cca233e"
+    },
+    {
+      "start_time": 173,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miamians have elected a new mayor, a 47-year-old political neophyte who first gained prominence as part of the legal team fighting to keep Cuban refugee Elián González in the United States. Phillip Davis reports from Miami. Manny Diaz was elected with solid support from the city's Cuban American population, which accounts for more than half of the city's electorate. They gave Diaz, who is also Cuban American, 88% of their vote."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "240bd077-e4b5-4676-996d-6b6c74648119"
+    },
+    {
+      "start_time": 198,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While Diaz went on local radio to thank them, he also spent the first day after his victory reaching out to the city's other ethnic groups. Anglos, Haitians, African Americans, and non-Cuban Hispanics all largely gave their votes to Diaz's opponent, former mayor Maurice Ferré. The city's controversial mayor, Joe Carollo, had already been defeated in the first round of elections last week. Diaz rose to fame as one of the lawyers representing Miami relatives of Elián González, but he downplayed that during the campaign, instead emphasizing a theme of uniting the city. For Latino USA, I'm Phillip Davis in Miami."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "187a2894-8532-409d-b956-cfa8b9a660a8"
+    },
+    {
+      "start_time": 236,
+      "end_time": 271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is news from Latino USA. In Texas, a federal court issued a new political map for the state, adding two new congressional districts. But the ruling failed to create a new majority Hispanic district. From Austin, Texas, Latino USA's Deepa Donde has more. The Mexican American Legal Defense and Educational Fund, or MALDEF, was hoping to get at least one of those new districts drawn in South Texas so that Latinos could elect a candidate of their choice. But instead, the three-judge panel created a district near Houston in a largely African American community and another near the northwest section of Dallas County."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Voter suppression",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Texas, United States",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "b0586188-16fd-484e-b840-8b66507fecb5"
+    },
+    {
+      "start_time": 271,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David Almagar is the Texas redistricting coordinator for MALDEF. We're disappointed in the decision. We think that the court's redistricting plan basically represents no progress for Latinos in Texas despite the fact that Latinos were 60% of the growth in the state of Texas over the past decade. At present, Latinos make up one third of the Texas population and, out of 32 congressional districts, account for seven Hispanic-majority districts in the state. MALDEF says that they are considering the possibility of an appeal to the Supreme Court. For Latino USA, I'm Deepa Donde in Austin, Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Voter suppression",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Texas, United States",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Houston, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Dallas, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "26b6ee05-13a8-4f07-b9c7-c142aba6157a"
+    },
+    {
+      "start_time": 307,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "U.S. Border Patrol agents are reporting a significant decrease in the number of arrests along the Mexican border. Latino USA's Andrea Valdez reports from Austin, Texas. Arrests of undocumented immigrants by the U.S. Border Patrol have fallen by more than 30% since the events of September 11. The U.S. Border Patrol says that while the number of agents has stayed constant, people are simply not crossing. The largest drop came in the Del Rio area of Texas, where arrests plummeted by 57%."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "U.S. Border Patrol",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border patrols",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Del Rio, Texas, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Texas, United States",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "3f46c22b-7625-456a-bf8e-afd9fffdd283"
+    },
+    {
+      "start_time": 335,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those who work with the immigrant community here in the United States have not yet felt the drop. For instance, business for Western Union, where the majority of immigrants wire money to relatives in their home country, fell off for about 10 days after September 11 but then return to normal. For Latino USA in Austin, Texas, I'm Andrea Valdez. In Austin, Texas, I'm David Álvarez. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "9f271269-c3d8-4418-b749-9bf4089f1606"
+    },
+    {
+      "start_time": 359,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d2c910c7-25cd-47fc-be75-8f174bc5dd9f"
+    },
+    {
+      "start_time": 392,
+      "end_time": 437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Dominicans in the northeast part of the United States, Flight 587 from New York City to Santo Domingo is such a common part of their lives. It even inspired a merengue. In the song \"El Avión,\" or \"The Airplane,\" Kinito Méndez describes the happiness and hope that sweeps through the plane as Dominicans head home to reconnect with their families for the holidays."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Washington Heights, New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "788f97d9-5942-4024-a124-573ba757a06c"
+    },
+    {
+      "start_time": 437,
+      "end_time": 479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But now that song is a bitter memory after Flight 587 exploded into flames and plummeted to the ground on November 12th. All 260 people on board died in that crash. From New York, Latino USA's Michelle Garcia takes us through the Dominican neighborhood of Washington Heights, where grief spills through the streets once filled with music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Washington Heights, New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "958cd5ac-6f5a-406c-805f-210ca95cab8c"
+    },
+    {
+      "start_time": 479,
+      "end_time": 523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Dominicans are in mourning. It's evident on the streets. It's written on the candlelit shrine outside the Alianza Dominicana, an Upper Manhattan community center. Downstairs, the first floor-- Just a few hours earlier, New Yorkers learned about the fatal crash that took hundreds of lives. About half of them came from this neighborhood. New York City is home to some one million Dominicans. But the community is tight, and the loss is felt by all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Washington Heights, New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "675fda51-1cdd-4d02-993c-0a3d2b4149e6"
+    },
+    {
+      "start_time": 523,
+      "end_time": 562,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Inside the offices of Alianza Dominicana, family members and friends trickle in, looking for help. They're greeted by counselors and social workers. Others come looking for answers. Lourdes Taveras spent the morning calling the Dominican Republic's embassy to inquire about a close friend who might have been on board Flight 587. She says after her calls went unanswered, she came here. I came here, and to be honest, I still don't know if he's alive or not. So I don't know what to do-- whether to stay here or go home. I can't get any concrete information."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Washington Heights, New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "00a6d39f-b001-4cba-a764-8e410a1b7556"
+    },
+    {
+      "start_time": 562,
+      "end_time": 598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Meanwhile, staffers mobilized to escort some of the victims' families to the Ramada Hotel, where American Airlines has set up a relief center. Alicia Nuñez is among those standing by. She says this tragedy hits a community still hurting from the September 11 terrorist attack. Pretty much all of New York City had started to get back on its feet, and efforts were being made to provide those who were left unemployed with jobs and with support. And I think this has just created a bigger setback because people hadn't fully recovered yet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "951ff5eb-6b58-4b60-a596-162c7c5f12ca"
+    },
+    {
+      "start_time": 598,
+      "end_time": 623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cid Wilson lost five friends in the World Trade Center attack. Now he's lost another-- 28-year-old Félix Sánchez. I'm talking a lot cooler now than I was this morning, when I first heard. And it's a terrible loss. It's a personal loss to me because he was a great friend, and he was really an outstanding example of the great things that we've done in this community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "8b4eab9b-db52-4b85-bb77-96c6d30e066c"
+    },
+    {
+      "start_time": 623,
+      "end_time": 653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "School children linger at the shrine outside the apartment building where Félix Sánchez lived with his mother. The up-and-coming financial star worked for Merrill Lynch in the World Trade Center. The day before the terrorist attack, Sánchez left the company to strikeout on his own as an investment advisor for Dominican Major League Baseball players. Sánchez wanted to teach them how to manage their money wisely. His family says he was always sharing his financial know-how with everyone, from the bodega owners to his own mother."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "c4c090b6-258d-48be-9576-f4e1b77aace7"
+    },
+    {
+      "start_time": 653,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Olga says she thought of that when she heard the news that her son had perished. He used to call me whenever the markets were down and would say, \"Mamá, it's a luna negra--\" a black moon. And that's how I feel-- like, a luna negra has darkened my life. Family and neighborhood friends stream in and out of the apartment. Candles, flowers, and nearly a dozen athletic trophies surround a photograph of her only child. Olga rests her slight frame on a pile of pillows. A rosary dangles from her neck."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "9824a990-daed-4918-9007-4b4ec462be76"
+    },
+    {
+      "start_time": 687,
+      "end_time": 706,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She says it makes her proud that Félix worked hard to contribute to the financial success of his Dominican brothers and sisters. That's what helps me feel a little bit calmer. I can deal with the situation a little better because he was so loved. So wonderful here and in Santo Domingo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "3f72bb3e-2d24-402f-bd44-5fceef8e6955"
+    },
+    {
+      "start_time": 706,
+      "end_time": 735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Flight 587 carried community heroes like young Félix Sánchez and more established icons like José \"Papi\" LaFontaine, who built a career in both New York and the Dominican Republic in radio and later as a music promoter. On board were mothers with their babies, husbands and wives anxious to reunite with family, and a Navy serviceman that only days before had returned from a tour of duty in Afghanistan. Holy Mary, Mother of God, pray for us sinners--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Veterans",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "4dfe2a43-9a39-4859-bac8-3555ead7adfb"
+    },
+    {
+      "start_time": 735,
+      "end_time": 757,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At night, Washington Heights residents turned out in the bitter cold for a vigil, offering condolences, showing solidarity, and burning with questions. I think that after all the things that we've gone through, especially the whole city of New York, and for it to hit Washington Heights like this, it hurts because we're asking us, why? Why us? Why our people?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Washington Heights, New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "a577b268-50cb-4342-960a-1bca7af40e25"
+    },
+    {
+      "start_time": 757,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Friends I went to school with, their mother passed away on the plane. And one of the mothers and the other friend of mine, both parents passed away. They were neighborhood friends from Dominican Republic, and they were neighbors here for maybe over 20 years. My mother's in D.R. right now, and she left on Thursday. So like I said, it hits everybody because my mother could have been on that plane. It's just a sad thing. Accident or not, it's just a sad thing. Can I say something? Sure. My name is Juan Reyes. I live in 161st, and I'm from Tenares."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Washington Heights, New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "163ca5de-bab4-417f-84d8-c3281f1345d0"
+    },
+    {
+      "start_time": 786,
+      "end_time": 837,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This tragedy is-- I don't know. Like, everybody was feeling bad and everything, and the heart was broken because a lot of Dominicans died in the World Trade Center. So now this happened, too? Another plane? What's wrong? As elected officials make assurances and offer condolences, residents here and New Yorkers across the city are asking themselves, what's happening to us? For Latino USA, I'm Michelle Garcia in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Washington Heights, New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "7e39abaf-9832-4d31-acf7-1abf9d82bf17"
+    },
+    {
+      "start_time": 837,
+      "end_time": 876,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The September 11th attacks may have changed the way the United States views immigration for years to come. Before that day, many immigration advocates had high hopes that President Bush would eventually support loosening policies and allow more people, including millions of Latinos, to legalize their immigration status. But the White House and Congress have pushed that idea far down on their list of priorities and instead are carrying out tighter controls over foreign visitors and a closer review of immigration laws. From WAMU in Washington, Lakshmi Singh reports."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "b74fdc96-bc70-45ac-ae5c-2bb19964de86"
+    },
+    {
+      "start_time": 876,
+      "end_time": 922,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was a time when immigration advocates felt strongly that finally things were going their way. Aware of the growing political and financial clout in Latino communities here and abroad, President Bush reached out to Latin American leaders in an effort to forge closer economic ties. The brightest glimmer of hope for many undocumented immigrants in the U.S. came when Bush met with Mexican president Vicente Fox, who had been pushing for an easing of immigration laws to allow more Mexicans to work in the U.S. legally. Immigrants should be able to obtain work visas, cross legally at border checkpoints, and work in an honorable condition. This will enable them to contribute--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "39f9e8e8-826b-4cca-9250-c8a3c73d3c58"
+    },
+    {
+      "start_time": 922,
+      "end_time": 944,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, with the attacks of September 11th, everything changed. Questions over how foreign terrorists managed to slip past U.S. authorities prompted the White House to spearhead a whirlwind of restrictions on who enters and leaves the country. It even created a task force to come up with anti-terrorism initiatives that included a review of immigration laws."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "438b1d39-bedd-467e-b672-edb473d3d50d"
+    },
+    {
+      "start_time": 944,
+      "end_time": 992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Cecilia Muñoz, with the National Council of La Raza in Washington, says what she sees is not a shift in immigration policy in the Bush administration but rather changes affecting temporary visas. We're kind of all lumping everything having to do with foreigners into the category of immigration. And in fact, if you look at the way the system works, we have about 800,000 people a year who come to the United States to live permanently as immigrants and then millions upon millions who come as visitors, as tourists, as students. Not a single one of the 19 terrorists had an immigrant visa-- not one. They were all on valid visas, but they were temporary visas. And that is the system which is under consideration, and that looks to me to be where the administration is putting its energy and its resources."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "a6d6a144-4e2c-4d97-b937-05d92fd01df7"
+    },
+    {
+      "start_time": 992,
+      "end_time": 1039,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "President Bush already called for more strict standards on issuing visas to foreign nationals, of which there are an estimated 23 million who enter the U.S. temporarily each year. The State Department is now taking longer to give the green light to certain men who come from predominantly Muslim nations. Men ages 16 to 45 have to wait 20 days longer than others to get a temporary document while the State Department does more thorough background checks. But Congress seems to be zeroing in on one group that makes up a minority of visitors-- foreign students. It's thinking about clamping down further on the issuance of visas for those attending U.S. colleges, which is how at least one of the September 11th hijackers had entered the country. This has many foreign students in the U.S. on edge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "0de55aa9-523e-403b-8268-282566254495"
+    },
+    {
+      "start_time": 1039,
+      "end_time": 1066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The activities all have offices or space up here. Also, the Dean of Students is here. Turning to a group touring the American University campus, 20-year-old Sadia Hameed flashes a smile. The international development graduate student can't wait to return to Pakistan for the holidays. But that twinge of excitement is overshadowed by this gnawing fear that leaving the country could mean the end of her U.S. education."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "f9f26c35-5ddc-4123-82cb-367ca515fa2a"
+    },
+    {
+      "start_time": 1066,
+      "end_time": 1097,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Back in Pakistan, my parents are hearing this news, and then they're hearing apparent stories of students connected to the Middle East and South Asia who have left the country and then tried to come back again and not been allowed back in the country-- and not only that but their visas being revoked, which basically means that their F-1 visa was canceled and their student status was taken away from them. I guess it is more of a concern. It's always a worry in the back of your mind. Are they going to hassle me at immigration? Am I going to be swept off to some room and scrutinize for an hour, or are they just going to set my passport and let me go through?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "8ac629b2-9ead-4a93-94a6-d2174a120650"
+    },
+    {
+      "start_time": 1097,
+      "end_time": 1125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeanne Butterfield is the executive director of the American Immigration Lawyers Association, or AILA. We still don't know. Who's being detained? Do they have counsel? Do they have representation? Are they being allowed their day in court? What are the charges against them? But when it comes to fighting an enemy you can't really see other than the prime suspect of September's attack, Osama bin Laden, some believe the FBI has to take drastic measures to solve a complex puzzle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "b9b5d19e-1e8b-4963-9548-bd734fdae6c0"
+    },
+    {
+      "start_time": 1125,
+      "end_time": 1164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What the investigators are trying to do is look at a worldwide organization which has simply said, they're going to kill us. Skip Brandon is a former deputy assistant director for international terrorism at the FBI. So they're trying to piece this together from a very, unfortunately, probably weak database to start with, or information point. So to do this, they have to pull information from all over. This is what the mosaic theory is. Speaking on WAMU's The Diane Rehm Show, Brandon says the FBI pulls in people only when there's enough suspicion they were somehow involved with terrorist acts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "7df3a3de-61e1-4366-9feb-fadb6a07629c"
+    },
+    {
+      "start_time": 1164,
+      "end_time": 1189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Several legal groups say they'll challenge the latest action by the Justice Department and FBI. The government recently announced it would monitor conversations between lawyers and their detained clients in an effort to weed out potential terrorists. It's part of the extended wiretapping and eavesdropping powers Attorney General John Ashcroft received from President Bush. AILA's Jeanne Butterfield says it could eventually affect all immigrants."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "854158af-234b-4e08-9a79-5214d81f72f4"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At first glance, it's not affecting the Latino community particularly because the targets of this investigation have largely been Arab American and Muslim. But one can imagine as the detention powers of the attorney general increase and the definition of terrorism broadens so that material support-- a contribution to a hospital project of a group that the secretary of state later decides is a terrorist group-- that makes you deportable as someone involved in terrorist activity. And we know from our experience that many liberation movements and organizations in Central and South America have been deemed terrorists at various points by various U.S. administrations. So I think this is an issue of concern to the community as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Central America",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "22e26083-3507-4f4d-bd3f-6f8438f7d0f4"
+    },
+    {
+      "start_time": 1237,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Congress is also considering drastic long-term changes to the way the U.S. tracks foreign visitors, from stricter entry-exit control measures that include high-tech systems at airports and land borders to a total overhaul of the Immigration and Naturalization Service. Many fear that'll mean further delays in the processing of green card applications."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Customs administration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "e899602d-72b5-448d-b55f-2fe837b6b80d"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the meantime, some lawmakers are hoping to maintain good relationships with Latin American leaders. The weekend before Thanksgiving, a group of Democratic legislators, led by Senate Majority Leader Tom Daschle and House Minority Leader Dick Gephardt, traveled to Mexico. Gephardt says lawmakers want to assure Mexican leaders that immigration remains an important issue for the U.S. I understand that people are disappointed that a lot of different agenda items fell off the agenda because of September the 11th. But we will conquer terrorism together with our friends like Mexico and other countries around the world, and we must return to this agenda because there's a lot of interest and concern with immigration reform. For Latino USA, I'm Lakshmi Singh in Washington."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "9f3bd356-6654-4919-a3cf-9012b9ddac87"
+    },
+    {
+      "start_time": 1315,
+      "end_time": 1369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We never had turkey dinners for Thanksgiving when I was growing up. My mother would bake a medium-sized chicken that she bought at the Safeway, sometimes dismembering it and putting the pieces in a casserole dish with a mixture of rice and onion soup. The rest of the menu consisted of calabacitas con maíz y papas aguadas con chile. Families all over the country will soon gather together to give thanks-- thanks for what, until September 11, some maybe took for granted. Thanksgiving is a time when families can appreciate just what they are-- a unique mix of tías and primos, aunts and cousins, viejitos and crying babies. Las Cruces-based writer Denise Chávez has a personal perspective on Thanksgiving and how this year might be a little different."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "98492006-9515-4b6b-b0a7-a0ebdf39bdfa"
+    },
+    {
+      "start_time": 1369,
+      "end_time": 1396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We didn't invite many people over for Thanksgiving. We were the ones usually invited out. If anyone did come over, it was usually my father, who happened to be in town. My parents got divorced when I was 10, but he always showed up for the holidays, even when he lived across the state and was always trying to escape my mother's goodwill and ever-hopeful embraces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Las Cruces, New Mexico, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "c272a97b-346d-4555-938b-9617e5c0ad04"
+    },
+    {
+      "start_time": 1396,
+      "end_time": 1440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But usually, one cousin in particular would invite us over to his house to eat with the whole family. His wife was a great cook, and everyone loved her. All the ancient tías and tíos, the young cousins and their boyfriends and girlfriends would show up, along with a contingent of people we didn't know but the host did. Vying for the prized positions in the dining room, family jostled for seating. The chamacos and the novias were relegated to the outlands of the family den, where, if they were bored, they could play pool. The older, more revered members of the clan were seated at the big dining room table."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "36e0edd7-d5df-4d7d-a858-7bc08852e867"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was where my father, Ernesto, sat in later years in his wheelchair like the pasha he was. Daddy's favorite saying at those Thanksgivings, after nibbling delicately but steadily throughout the meal, was, \"Ya comí, ya me voy!\" And he meant it. He could not endure the company of family for too long. He had eaten, and he was ready to get out of there. 340 SPANISH, SINGING IN One kiss for you One kiss for me Tastes just like honey, right from the bee"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "40dfa956-f34d-4722-ace1-8e814929d09a"
+    },
+    {
+      "start_time": 1483,
+      "end_time": 1516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My cousin usually rode herd on these festivities. His wife didn't know that the office manager that he had invited over was, in fact, his girlfriend. His wife finally left him, which leads us to the last family Thanksgiving. We celebrated together with Mr. Macho's latest girlfriend, a former Las Vegas showgirl, as hostess. The family core, now winnowed down to the hardiest members, was dutifully in attendance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "47f77210-7696-4c85-85db-f6cec8acce5b"
+    },
+    {
+      "start_time": 1516,
+      "end_time": 1557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We adults, now having claimed our long-anticipated place at the big table, sat stoically, staring at the mashed potatoes, the best dish on the table, our beloved prima nowhere in sight. So many people were missing. Some had died, including my father. The hostess was someone no one knew really well. My primo, someone we knew all too well. The oldest person was the showgirl's mother, a wizened and extremely delicate little bird who sat at my father's former spot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "13784764-2532-4dd8-9ff1-d907b7886f60"
+    },
+    {
+      "start_time": 1557,
+      "end_time": 1600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Solemnly and without much enthusiasm, we passed around a bland-tasting dressing. Oy, what I would have given for a rude grito from my father in his wheelchair! \"Ya comí, ya me voy!\" This year, I'm hosting el Thanksgiving. A few things will be different-- no canned vegetables, no frozen food, no store-bought cranberry sauce, no football. No men here, no women there, no platos, no sitting somebody across the table from the person he or she cannot stand. No strangers. You have to be a certified family member or close kin of kin to be invited."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "e15e91fc-3d89-45cc-805b-7683c4e82642"
+    },
+    {
+      "start_time": 1600,
+      "end_time": 1653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We will give thanks for another year of blessings and for accepting one another as we are through changes, great and small. Dysfunctional? We are not dysfunctional. We are familia. Denise Chávez is a novelist based in Las Cruces, New Mexico. Her most recent book, Loving Pedro Infante, is published by Farrar, Straus and Giroux. This story first appeared in Latina Magazine. One kiss for you One kiss for me Tastes just like honey, right from the bee"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Thanksgiving Day",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Novelists",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Las Cruces, New Mexico, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "595c243b-35bc-4327-a0fb-6806b50df144"
+    },
+    {
+      "start_time": 1653,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, this has been Latino USA, the radio journal of news and culture. Gracias por escucharnos. Thanks so much for listening. Latino USA was produced this week by Alex Avila, Walter Morgan, and Andrea Valdez. The contributing editor was Ingrid Lobet. We also had help from Richard Gonzalez, Mandalit del Barco, KRWG in Las Cruces, New Mexico, and Manoli Wetherell. Latino USA's production and administrative staff includes Delaine Wright, Dean Graber, Deepa Donde, and Angela Huffstutler."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "56255cfb-0e80-420a-bc03-b8733edc6929"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Further information about Latino USA is available on the web at LatinoUSA.org. You can also call our listener comment line at 1-800-535-5533. And our email address is LUSA@npr.org. This week's program is number 449. Support for Latino USA comes from the Ford Foundation, the Center for Mexican American Studies, and KUT Radio at the University of Texas at Austin. Additional support from the William and Flora Hewlett Foundation, the Trull Foundation, the National Endowment for the Arts, and National Public Radio, whose contributors include Jennifer and Ted Stanley. I'm Maria Hinojosa. Join us again next week for another edition of Latino USA. This is NPR, National Public Radio."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "094d0e72-a181-4991-b582-107ccf6d570a"
+    }
+  ],
   "event_id": "917ca534-9831-45e5-a6e4-de7d8be6bcec",
   "set": "Episode449",
   "source_id": "7ec65d0f-01fe-4742-86d5-694b839f9c8a"
