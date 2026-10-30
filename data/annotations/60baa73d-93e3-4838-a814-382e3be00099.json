@@ -1,1 +1,1706 @@
-{"annotations":[],"set":"Default","event_id":"6e87b9ae-981d-481a-ab3d-493e6b01cc56","source_id":"e97a3449-3c9c-4828-87e4-ce5ae8f7b220"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio journal of news and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a729b700-f399-4188-b94a-d09ec4c6f75d"
+    },
+    {
+      "start_time": 4,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm María Martin in for María Hinojosa. On this edition of our program, Latino leaders speak out. And I'll tell you, my concern is that a lot of Latinos look Arabic. We need to be vigilant. We need to speak out against anyone violating the civil individual rights of other individuals. And I think we have a moral responsibility, as well as a legal responsibility to make sure we're not involved in those acts. Also, Grammy-nominated musicians play their hearts out for the tragedy's victims. The attack on New York was an attack on our souls. New York has an international soul in it. It's not just the United States, it's the world. This and more coming up on this edition of Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Music--Awards",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "46dccc59-8d11-4779-bba5-84f1e04c0524"
+    },
+    {
+      "start_time": 57,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "These were the days when America tried to get back to normal. Not an easy thing. As more victims were identified, stocks went down, airlines announced cuts of thousands of jobs. I'm María Martin. It"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "20a1311f-fa65-4ffb-a0fd-5e209d0905f1"
+    },
+    {
+      "start_time": 77,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "seemed almost every corner of the globe felt the impact of the terrorist attacks. Latin American governments from Argentina to Cuba expressed their solidarity with the United States. Many of those countries also lost citizens. Almost 300 Colombians, according to one source, 39 Hondurans, also citizens from Paraguay, Brazil, and many other Latin American countries were counted among the missing. The ambassador of El Salvador, René León says a Salvadoran citizen was aboard the united flight that hit the South Tower of the World Trade Center, and that other Salvadorans are surely among the missing. I think that the predominant sentiment in El Salvador right now is that this was an attack not only to the United States, but also was an attack to all countries who believe in freedom and all countries who believe in universal values. All of our"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "El Salvador",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "2013aada-1d36-4df1-b72f-6004c19de5e1"
+    },
+    {
+      "start_time": 132,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "families, in fact, are connected to somebody. I don't think there's a single family in the Dominican Republic that doesn't have someone in New York. So the impact-- Moises Perez of the Dominican community organization Alianza Dominicana in New York, says Dominicans are feeling the tragedy in a very personal way. Hundreds of Dominicans were employed at all levels at the World Trade Center, and the Dominican Republic, like so much of Latin America and the world will also feel an economic impact. Tourism, I think, is going to take a hit. The suspension of flights for almost a week is also having an impact in the Dominican Republic in particular. Usually, there's anywhere from 10 to 12, 15 flights a day back and forth. There's that old saying that says that whenever the United States needs us, we get the full blown cold."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Dominican Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "d281bc9c-28ed-41f5-b23e-94847ec1649c"
+    },
+    {
+      "start_time": 189,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many Latin American analysts fear that the region from Colombia to Mexico may be forgotten as attention turns elsewhere. Bill Spencer of the Washington Office on Latin America says the impact on foreign policy in the region will soon be felt as the focus turns from democracy and human rights to countering terrorism. I think it's important that people, not that in the rush to figure out what an appropriate response is to the attack that's been made, people not lose some of the safeguards and some of the space for critical debate that that's been won in Latin America policy over the last years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "54c0b9e4-21a5-48c9-8a94-959436cf281e"
+    },
+    {
+      "start_time": 229,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was little debate, Spencer points out, in the recent approval of John Negroponte as US ambassador to the United Nations despite questions regarding his role in Honduras in the 1980s. We're worried that they might try to push through the nomination of Otto Reich to be Assistant Secretary of State for Western Hemisphere Affairs, despite Democratic objections, because objecting at this point can look unpatriotic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "7fb3d088-3373-40b1-95b3-308ce6d517e9"
+    },
+    {
+      "start_time": 253,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And some analysts say that the rush to close borders may also impact recent openings in the US relationship with Mexico. Some worry about an even more restrictive policy with Cuba, about the future of USAID to help Colombia combat narco terrorism, and about the immediate future of expanding free trade with Latin America. From Mexico all the way south to Argentina and in Chile, we are going to see very serious economic problems affecting the domestic economy of each of these countries in the region, and also the trade relations of Latin American countries with the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International trade",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Commercial treaties",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Argentina",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Chile",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "95368409-8c5a-4aeb-bd76-198f64f57b22"
+    },
+    {
+      "start_time": 295,
+      "end_time": 354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The emphasis, again, is going to be on strategy. Question is going to be to try to erect barriers, and defense. Is going to try to organize and provide technical assistance for those countries to gather intelligence, information, and to be able to disseminate it to the United States at the right time. Jorge Vargas is an international law professor at the University of San Diego. He believes that though the administration's focus will move away from Latin America, that in the long run, the region may benefit from the solidarity that Latin America is now offering the United States, and from the greater avenues of communication, that this may open between the United States and Latin America. These avenues of communication and cooperation are going to be eventually translated into specific benefits to each individual country in that situation, including indeed, security aspects."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "4e68ea2d-080c-4df5-b803-70016ee77922"
+    },
+    {
+      "start_time": 354,
+      "end_time": 371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Austin, Texas, I'm María Martin. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9a8579eb-1f28-454b-902a-148dda8e77da"
+    },
+    {
+      "start_time": 371,
+      "end_time": 427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As this program goes to air, American leaders are mapping a military response to the attacks of September 11. It's a response that will certainly involve all of us. Last year, young Latinas and Latinos made up around 15% of Navy recruits and new Marines. But as Latino USA's Ingrid Lobet reports, opinion about the wisdom of a military effort is not unanimous. Louis Caldera was Secretary of the Army in the Clinton administration. He's a graduate of West Point, and led the recent effort to increase Hispanic enlistment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "e4a3f6fe-36ee-47d9-8d76-ad1aaceec2b1"
+    },
+    {
+      "start_time": 427,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He says a forceful military response to the attacks in New York and Washington is essential. I think there are people who don't understand words. They only understand actions. So I'm very convinced that we need to take the decisive action that shows that we can be sucker punched yes, but we're going to turn around and deliver a devastating blow right back. Caldera, who's now Vice Chancellor of the California State University, says, imagine a war akin to the war on drugs. Many of the actions are actually very small scale actions, covert actions, where intelligence is developed over time and you systematically go after the organization."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "d428d5f6-e32a-40dc-801d-9386d8c4868c"
+    },
+    {
+      "start_time": 468,
+      "end_time": 493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Professor Jorge Mariscal, who teaches at UC San Diego believes a war against terrorism is not the only possible response. Instead, he says, members of the terrorist cells might be brought before a tribunal. I think these people who committed these atrocities need to be found and need to be tried in some kind of world and international court and brought to justice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "San Diego, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "159a2c65-2d75-4dc8-876f-e9701a0e0fca"
+    },
+    {
+      "start_time": 493,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tens of thousands of Latino families have members in the National Guard and reserves. Mariscal, who served in Vietnam and wrote a book about Chicano veterans, says when they receive their calls to active duty, he hopes they'll think more critically about it than he did when he got his call in 1968. I think one of the greatest dangers for our communities now is a kind of blind, uncritical patriotism. For many, many decades now, Latinos have proved prove themselves, prove their patriotism through military service. The problem now, it seems to me, is that we need to be very intelligent about our patriotism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Veterans",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "903d0083-e110-42de-a09b-83af9a37f44e"
+    },
+    {
+      "start_time": 533,
+      "end_time": 562,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mariscal urges people to become better informed about foreign policy and not to rely on television. The Palestinians who applauded last Tuesday are people who are being bombed by the Israelis, and every time they pick up a bomb fragment, it says, made in the United States. So these people are very angry at the United States. And most Americans don't realize that. This, in no way, justifies what was done on Tuesday."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "749c4e8d-6900-4276-82ab-c60ad92e6229"
+    },
+    {
+      "start_time": 562,
+      "end_time": 595,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Louis Caldera responds that when people do evaluate the attacks and those responsible, they'll be motivated to enlist. Thankfully, I think right now, a lot of young men and women are going to the recruiting stations to find out about how they sign up, because they can appreciate that the freedoms that we have and enjoy today were won by generations of Americans that came before them that were willing to put their life on the line. For now, everyone waits to learn the design of the new military plan. For Latino USA, I'm Ingrid Lobet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Veterans",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "191d3477-3b51-445b-9068-cca391811229"
+    },
+    {
+      "start_time": 595,
+      "end_time": 658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name is Orlando Rodriguez. I'm a professor at Fordham University. I lost our son, Greg in the World Trade Center attack. Orlando Rodriguez says the only way that he and his wife, Phyllis, could keep sane in the wake of their son's and so many other deaths at the World Trade Center, was to make public their hope that American government leaders respond rationally to the tragic events that took his son's life. He wrote this letter to be published by The New York Times. And the subject of this letter is not in our son's name, and it reads as follows."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "ad9cc803-d480-45b2-9be3-46fd71ed3f4a"
+    },
+    {
+      "start_time": 658,
+      "end_time": 705,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our son Greg is among the many missing from the World Trade Center attack. Since we first heard the news, we have shared moments of grief, comfort, hope, despair, fond memories with his wife, the two families, our friends, and neighbors, his loving colleagues at Cantor Fitzgerald East eSpeed and all the grieving families that daily meet at the hotel that Cantor Fitzgerald got together for the families. We see our hurt and anger reflected among everybody that we meet, we cannot really pay attention to the daily flow of news about this disaster."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "f1e136c2-6f64-4af2-aeb0-1ca0046b1aa2"
+    },
+    {
+      "start_time": 705,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But we read enough of the news to sense that our government is heading in the direction of violent revenge, with the prospect of sons, daughters, parents, friends in distant lands dying, suffering, and nursing further grievances against us. It is not the way to go. It will not avenge our son's death. Not in our son's name. Our son died a victim of an inhuman ideology. Our actions should not serve the same purpose. Let us grieve. Let us reflect and pray. Let us think about a rational response that brings real peace and justice to our world, but not let us, as a nation, add to the inhumanity of our times. Orlando Rodriguez is a professor at Fordham University in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "d73b8cd6-2708-465c-8d40-b0456b5e5b28"
+    },
+    {
+      "start_time": 763,
+      "end_time": 818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Joining us now on Latino USA to discuss the many ways the events following September 11 are influencing all of us are from Washington; Raul Yzaguirre, the President of the National Council of La Raza and from Los Angeles, Antonia Hernández, President and General Counsel of MALDEF, the Mexican-American Legal Defense and Educational Fund. Let me ask you, Mr. Yzaguirre and Ms. Hernández, in your capacity as recognized and respected leaders, as we ponder the short and long-term impact of the attacks on all of us, in particular on Latino communities in this country, what do each of you see as the most immediate fallout of these events?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "52ac30d2-7dcf-454d-a415-1d4e99154813"
+    },
+    {
+      "start_time": 818,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, María, understandably, I think the attention of the nation has got to be focused on responding to the threat or the perceived threat and dealing with this emergency. And certainly, some priority issues for the Latino community are going to take the back seat, as other important issues for the entire nation, like education and the environment and a variety of very important issues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "1ab08e37-c2e3-410d-81ec-79f847b265f0"
+    },
+    {
+      "start_time": 842,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Antonia Hernández, we're already hearing calls to close the borders and change our immigration policy. The problem is not one of the many people that come into our country that are law-abiding, and the immigrants that have contributed significantly to this country. The acts were the acts of a few individuals. We have to find out and act rationally as to who these individuals are. I believe that as a country and as a people are entitled to punish these individuals, but we have to make certain that these are the individuals responsible, and we cannot proceed to condemn a whole group of people. And revenge is not very American, and I don't think that's what we should do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border security",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "bed01994-27cd-4dda-9fbb-1c27aeb230de"
+    },
+    {
+      "start_time": 888,
+      "end_time": 921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think we need to be very careful to balance the needs of this country, to find out who did this and to make sure it doesn't happen again. But we have to balance that with the rights and the liberties that we have that makes us so uniquely Americans. Now, right before all of this happened in the wake of President Vicente Fox's visit to Washington, there was a great likelihood that there would be some kind of legalization for Mexican and other immigrants who were here without documents. Where does that stand now. Raul Yzaguirre?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "d6f4b686-13e5-4cc7-8727-21f92afb6662"
+    },
+    {
+      "start_time": 921,
+      "end_time": 961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the good news is that President Bush talked to Vicente Fox, President Fox, and indicated that the commitments and the understandings and the priority that he gave to a comprehensive immigration reform program would remain. So I think that is very good news. And we should not let the tragedy in New York and in Washington, DC, deter us from important business of this country. We're all suffering from this, and I think it's important to point out to your audience and your listeners that at least 20%, perhaps as much as 25% of the casualties in New York were Latino or Hispanic. And that's an amazing number that just the media hasn't picked up at all on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "3add623e-4680-4717-b8b4-3ee5f2f58218"
+    },
+    {
+      "start_time": 961,
+      "end_time": 1006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Indeed. It's been said that according to some recent polls, Americans support racial profiling more than ever before. And I'm wondering, what does this and other measures that people are proposing to combat terrorism mean for the Civil Rights? The issues that are so important to the both of you. Well, I think you know that this is a very important issue. One of the concerns, that we have is that Latinos are not to engage in racial profiling against Arab Americans or people that practice the Muslim religion. I think that as a community that has suffered discrimination, we should be very careful not to engage in that type of behavior."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "30cca988-7ea8-4b87-92bb-47c907102f83"
+    },
+    {
+      "start_time": 1006,
+      "end_time": 1037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'll tell you, my concern is that a lot of Latinos look Arabic. And we also have to be very concerned about the impact that that's going to have to that community, and also to the Latino immigrant community. I think we need to be vigilant. We need to speak out against anyone violating the civil individual rights of other individuals. And I think we have a moral responsibility, as well as a legal responsibility to make sure we're not involved in those acts. Raul."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "bd25a537-614f-4953-ba96-5f860967a198"
+    },
+    {
+      "start_time": 1037,
+      "end_time": 1059,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. I absolutely agree with Antonia. It's important to set a standard for what we want to do as a nation. We've been through this before. After World War II, we in turn, we violated the rights of Japanese-Americans and a variety of other folks as well. And the fact of the matter is that it did not make us any safer. And that's the standard that we ought to uphold."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "250100cf-3a8a-436d-bbae-b9fcdd0285df"
+    },
+    {
+      "start_time": 1059,
+      "end_time": 1105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're all willing to undergo some inconveniences. I mean, if I have to spend two more hours at the airport to make this a better and safer country, I'm prepared to do that. If I have to show more identification, we're all prepared to do that. Those are inconveniences that we must tolerate in order for us to promote the greater safety and welfare of the nation. But to do irrational things that do not increase our safety by gross violation of civil rights of an entire group of people is not only wrong, but it is damaging to our culture, it is damaging to our principles, it's damaging to the Constitution, and it doesn't make us any safer. So I think Antonia's plea for common sense and adherence to principles is on the right track."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "819accd5-8459-4231-8c34-6f08bc2a4aaa"
+    },
+    {
+      "start_time": 1105,
+      "end_time": 1114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you very much. Antonia Hernández of MALDEF and Raul Yzaguirre of the National Council of La Raza."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mexican American Legal Defense and Educational Fund",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "b49a24ae-3af9-4260-97f9-7bd7e22961bd"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like so many events scheduled to take place in recent days, the presentation of the Latin Grammys, set for September 11 in Los Angeles, was canceled indefinitely. But nominees, presenters, and even some Hollywood stars decided to lend their voices to help anyway, with a charity concert to raise money for the rescue effort at the World Trade Center. Latino USA's Mandalit del Barco was there, and she 162 PLAYING, MUSIC 163 PLAYING, MUSIC 164 PLAYING, MUSIC has 166 PLAYING, MUSIC 167 PLAYING, MUSIC this 169 PLAYING, MUSIC 170 PLAYING, MUSIC 171 PLAYING, MUSIC report. 173 Barco, Mandalit Del"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music--Awards",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "66fd19fc-dd35-4e35-bc58-f549e329a317"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuban musician Chucho Valdés performed a piano masterpiece 175 Barco, Mandalit Del 176 Barco, Mandalit Del to honor New York's heroic firefighters and police officers. Like other Latin Grammy nominees who were on stage at a Beverly Hills Hotel, Valdés expressed horror for the September 11 attacks. \" It's painful for the entire world,\" said Valdés. \"And we musicians will do whatever we can do to help. 184 Barco, Mandalit Del 185 Barco, Mandalit Del Instead of collecting awards, they raised money for the families of the fallen rescuers.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music--Awards",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "ab4d5243-e1c8-4968-888e-0f336ed122e8"
+    },
+    {
+      "start_time": 1218,
+      "end_time": 1228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Latin Grammy Awards show itself lost money by being canceled on September 11, that on top of $2 million in expenses lost by moving the show from Miami to Los Angeles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music--Awards",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "a47e30e7-5eb5-4ef1-9067-d82f9d9ba632"
+    },
+    {
+      "start_time": 1228,
+      "end_time": 1259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Organizers had feared protests in Florida by Cuban-Americans who were opposed to the US appearance of musicians from Cuba, like Valdés. The protesters had argued that giving them Latin Grammy Awards would benefit Communist Cuban leader Fidel Castro. But during the concert, Valdés said that controversy now meant little in the wake of the tragedy. \" 196 Barco, Mandalit Del 197 Barco, Mandalit Del What's important,\" said Valdés, \"is that the world unite.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music--Awards",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "b7d8bfc1-d395-44ba-9bd2-01ad04149554"
+    },
+    {
+      "start_time": 1259,
+      "end_time": 1289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a sentiment shared by Colombian Rocker Juanes, who was nominated for seven Latin Grammys this year. I think everybody is still shocked. And when I saw the TV that morning, I was just watching those planes crashing. When you see that kind of situations, Latin Grammys, or Emmy, or whatever, Oscars, it's not important at all. Now, we just have to take care of our lives, you know. We need to keep going. We need to keep living."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music--Awards",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "a22082ff-cd75-41fb-bb9d-a29527ff01c8"
+    },
+    {
+      "start_time": 1289,
+      "end_time": 1328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Juanes and many of the Latin Grammy musicians know firsthand what it is like to live in countries torn apart by conflict. And that seemed to lend added passion to their musical tribute. Take, for example, Cuban troubadour Francisco Céspedes. 215 Barco, Mandalit Del 216 Barco, Mandalit Del 217 Barco, Mandalit Del"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music--Awards",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "016b309b-689f-41f2-9c0e-7a02023fb2bb"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Céspedes shared the stage with other Latin Grammy nominees such as Issac Delgado and Celia Cruz. Academy Award winner Kevin Spacey made a surprise appearance, singing a soulful rendition of Bridge Over Troubled Waters, and singer lawyer actor Rubén Blades came to lament his city."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music--Awards",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "a705ea74-3f34-460d-8602-e1ff6b11c9eb"
+    },
+    {
+      "start_time": 1347,
+      "end_time": 1382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Skyline have you anything to say to me Won't you tell me where my love can be 228 Blades, Rubén Is there a meadow in the mist Where someone's waiting to be kissed"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Music--Awards",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "f6ae4da9-7f14-4d58-9f09-1da9b9304a8c"
+    },
+    {
+      "start_time": 1382,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Backstage, Blades saluted the firefighters from his neighborhood in Manhattan's West Village, who lost their lives trying to rescue victims at the World Trade Center towers. He said he was frustrated not to be back in New York to help, but he and other musicians were doing what they could from Los Angeles. An independent from where we were born or what nationality we are or what kind of language we speak, the attack on New York was an attack on our souls. New York has an international soul in it. It's not just the United States, it's the world there. To help"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Cultural pluralism",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Manhattan, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "26a3d62d-e590-4435-9142-ede02ea64276"
+    },
+    {
+      "start_time": 1425,
+      "end_time": 1466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the musical spirit go on, organizers of the Latin Grammys say the award winners will be announced and celebrated sometime before the end of the year. I don't know if you can find these things But my heart is writing on your way So if you see them anywhere won't you leave me there For Latino USA, I'm Mandalit del Barco in Los Angeles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music--Awards",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Musical groups",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "2302a752-f632-4e74-a925-f2cfa6ca614d"
+    },
+    {
+      "start_time": 1466,
+      "end_time": 1499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They pulled him out of the car, dragged him out of his car, and held him down and started berating him. And there was-- we're not quite sure if it was five or seven suspects, and several of them had guns pointed at his head. And he said, I'm Latino-- I'm Latino. And one of the suspects was Latino. He says, if you are, convince me or show me. And he started speaking in Spanish, and he says-- then he told his compatriots, let's get out of here. Lieutenant Joe is with the Los Angeles Sheriff's Department."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hate crimes",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Bilingualism",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "924a2b66-efa9-4ebf-8ffd-04ba23f2f1da"
+    },
+    {
+      "start_time": 1499,
+      "end_time": 1539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los Angeles is just one community across the country reporting an increase in hate crimes, prompting Latino USA contributor Deepa Donde to ask this question. Is it no longer safe to be Brown in America? I can't seem to shake off the hard stares and suspicious glances at grocery stores, restaurants, and shopping malls. My email inbox is flooded with messages and my phone keeps ringing. Hushed voices hold back the tears detailing the assaults, the harassments, and yes, the deaths of some in my community all across the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hate crimes",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Los Angeles, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "b5639c13-36f1-4c55-ab4c-c521fc2210cd"
+    },
+    {
+      "start_time": 1539,
+      "end_time": 1567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm scared now, deeply scared, in fear that terrorism can strike at any time and at any place. And now, no one is safe. No, I'm not a Latina. Often, when I travel to the border for stories, I am mistaken for one. My dark black hair, brown eyes, brown skin, perhaps makes it difficult to account for my ethnicity. But not anymore. I am an 271 Donde, Deepa 272 Donde, Deepa Indian-American, 274 Donde, Deepa 275 Donde, Deepa also a Hindu. I never gave my identity or color much thought until the darkest day in America's history, Black Tuesday."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hate crimes",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "790d3290-ebc4-420e-bc0f-39b54e77678b"
+    },
+    {
+      "start_time": 1567,
+      "end_time": 1594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All over America, the chase is on to find these terrorists, and all over America, unsuspecting South Asians are finding themselves under attack. We are living behind closed doors, afraid to go outside in fear of what will happen next. A Sikh man in Phoenix, Arizona, was shot dead at a gas station he owned. His family believes he was targeted because he wore a turban, much like the one worn by Osama bin Laden."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hate crimes",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Phoenix, Arizona, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "85c831ce-2a55-4b5c-8f99-44f4547b55c3"
+    },
+    {
+      "start_time": 1594,
+      "end_time": 1622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And another incident in Dallas, Texas, a Pakistani man was killed at his convenience store. The news chilled my blood. I was frozen. I have always thought of America as my home. I was born and raised here. Then I started to weep. I wept for the victims of the World Trade Center tragedy who would never see their loved ones again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hate crimes",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Dallas, Texas, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "49f531c7-b837-4a3d-8f11-5a220cac7374"
+    },
+    {
+      "start_time": 1622,
+      "end_time": 1653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wept for the Sikh and Pakistani families who lost a father, a husband, brother and friend. I shutter to think that America is now turning its anger against their own innocent civilians, and against the very ideals that this country has built the fabric of its society upon. Is this the answer? We are all in pain. We all feel anguish. But if we are to survive as a nation and heal this pain searing our country, we must rise above the ignorance. If we don't, then the terrorists can mark a second victory, and we can be assured that it is no longer safe to be Brown in America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Hate crimes",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Xenophobia",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "eae6b64d-f6cf-4769-bff3-e2073bfa3dee"
+    },
+    {
+      "start_time": 1653,
+      "end_time": 1665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Deepa Donde is a reporter and producer working with Latino USA in Austin, Texas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "731dda5e-f4cf-49da-a233-3af926451729"
+    },
+    {
+      "start_time": 1665,
+      "end_time": 1734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, this has been Latino USA, the radio journal of news and culture. This edition of the program was produced by Alex Avila, Walter Morgan, Dean Graber, Andrea Valdez, Deepa Donde, and Ingrid Lobet. We also had help from Fernando Velázquez, Ken Mason, and WFUV in the Bronx. Gracias for listening. I'm executive producer María Martin. Further information about Latino USA is available on the web at latinousa.org. You can call our comment line at 1-800-535-5533. Our email address is lusa@npr.org. This week's program is number 441. Support for Latino USA comes from the Ford Foundation, the Center for Mexican-American Studies, and KUT Radio at the University of Texas at Austin. Additional support from the William and Flora Hewlett Foundation and National Public Radio, whose contributors include Jennifer and Ted Stanley. Our host, Maria Hinojosa, will be back next week. Join us then, for another edition of Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "606cba66-fce0-4871-81f2-014781481a4b"
+    },
+    {
+      "start_time": 1734,
+      "end_time": 1745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is NPR, National Public Radio."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "565c571b-c475-4631-987f-d5250749d5ad"
+    }
+  ],
+  "set": "Default",
+  "event_id": "6e87b9ae-981d-481a-ab3d-493e6b01cc56",
+  "source_id": "e97a3449-3c9c-4828-87e4-ce5ae8f7b220"
+}
