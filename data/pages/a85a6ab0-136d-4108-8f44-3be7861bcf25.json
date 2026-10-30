@@ -4,11 +4,12 @@
   "created_by": "rsalci25",
   "title": "Episode 448",
   "slug": "episode-448",
-  "updated_at": "2026-10-30T05:14:23.998Z",
+  "updated_at": "2026-10-30T18:27:16.257Z",
   "updated_by": "rsalci25",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "479ee889-5e51-48ba-ae4b-a9256e7758f5"
-  }
+  },
+  "parent": "dfdf05c6-16f9-4ee3-924f-8ee8ea461017"
 }
