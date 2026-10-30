@@ -4,11 +4,12 @@
   "created_by": "rsalci25",
   "title": "Episode 453",
   "slug": "episode-453",
-  "updated_at": "2026-10-30T05:14:24.038Z",
+  "updated_at": "2026-10-30T18:27:32.897Z",
   "updated_by": "rsalci25",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "97f30974-5235-4085-8ddc-df9ac0a10025"
-  }
+  },
+  "parent": "dfdf05c6-16f9-4ee3-924f-8ee8ea461017"
 }
