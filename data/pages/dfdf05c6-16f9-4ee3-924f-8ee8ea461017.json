@@ -93,7 +93,14 @@
                   "italic": true
                 },
                 {
-                  "text": " aims to promote cross-cultural understanding by highlighting the diverse experiences and perspectives of Latino communities. Production transitioned to the Futuro Media Group in 2010."
+                  "text": " aims to promote cross-cultural understanding by highlighting the diverse experiences and perspectives of Latino communities. Production transitioned to the Futuro Media Group in 2010. Learn about their current activity on the "
+                },
+                {
+                  "text": "Latino USA",
+                  "italic": true
+                },
+                {
+                  "text": " website."
                 }
               ]
             },
@@ -118,31 +125,35 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "In order to visually represent the"
+                  "text": "In order to visually represent the "
+                },
+                {
+                  "text": "LLILAS Benson Latino USA Records Collection,",
+                  "link": "https://txarchives.org/utlac/finding_aids/00344.xml"
                 },
                 {
                   "type": "link",
                   "url": "https://txarchives.org/utlac/finding_aids/00344.xml",
                   "children": [
                     {
-                      "text": " LLILAS Benson's Latino USA Radio Collection"
+                      "text": ""
                     }
                   ]
                 },
                 {
-                  "text": ", we are using AVAnnotate to highlight areas of episodes focusing on immigration, cultural traditions of immigrants in the United States, and international relations. We focused on ten episodes individually linked below that heavily feature talk of immigration and immigrant cultural traditions. Each episode has been annotated through both subject and geographic tags that appear under each relevant time stamp. All our tags were selected from authorized"
+                  "text": "we are using AVAnnotate to highlight areas of episodes focusing on immigration, cultural traditions of immigrants in the United States, and international relations. We focused on ten episodes individually linked below that heavily feature talk of immigration and immigrant cultural traditions. Each episode has been annotated through both subject and geographic tags that appear under each relevant time stamp. All our tags were selected from authorized"
                 },
                 {
                   "type": "link",
                   "url": "https://id.loc.gov/authorities/subjects.html",
                   "children": [
                     {
-                      "text": " Library of Congress Subject Headings (LCSH)"
+                      "text": " Library of Congress Subject Headings (LCSH)."
                     }
                   ]
                 },
                 {
-                  "text": "."
+                  "text": ""
                 }
               ]
             },
@@ -161,14 +172,6 @@
                     }
                   ]
                 },
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
                 {
                   "text": ""
                 }
@@ -348,7 +351,7 @@
   "created_at": "2026-10-29T10:27:25.170Z",
   "created_by": "rsalci25",
   "title": "Annotating Latino USA: Immigration, Policy, and Culture",
-  "updated_at": "2026-10-30T19:43:42.913Z",
+  "updated_at": "2026-10-30T19:55:50.329Z",
   "updated_by": "rsalci25",
   "autogenerate": {
     "enabled": false,
