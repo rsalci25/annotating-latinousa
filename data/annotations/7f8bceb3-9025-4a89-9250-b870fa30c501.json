@@ -1,1 +1,1700 @@
-{"annotations":[],"set":"Default","event_id":"2d330e50-bb73-470c-874c-a0926e6faaa8","source_id":"7b4e921f-1436-47b6-8cbc-1ebaed152ce4"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Latino USA, the radio journal of news and culture."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "966f120a-77c1-41f7-bbfb-8912f28d22cc"
+    },
+    {
+      "start_time": 7,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa. On this edition of Latino USA, stories of the undocumented victims of the terrorist attacks on New York's World Trade Center. We don't have a Social Security. We cannot go to the hospital. Now, if you see, I have a problem with my eyes. But how am I going to pay if I have no money. I have no insurance. Also, how September 11 has changed the debate over the military's presence on the Puerto Rican island of Vieques. Some of the Vieques protesters are the people in Congress who favor the Navy, leaving Vieques maybe a little bit gun shy now because they don't want to appear as being antimilitary during a time when the US is in the middle of a war, of a new war against terrorism. And a human rights activist is murdered in Mexico. This and more on this edition of Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Vieques, Puerto Rico, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "f0e1d885-dae8-42eb-854e-0f3bc0ba1a39"
+    },
+    {
+      "start_time": 60,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For this week, this is news from Latino USA. I'm David Alvarez. The Bush administration is considering ways to appoint Otto Reich as the new Assistant Secretary of State for Latin America. This despite objections from key senate Democrats. NPR's Richard Gonzales reports. Otto Reich is a Former Ambassador to Venezuela. During the Reagan administration, he ran a state department office dedicated to building public support within the United States for the Nicaraguan contras. He's a strong advocate for the US Embargo against Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Nicaragua",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "a5c8218c-a1f7-4149-b9d5-7e6af0dd73a4"
+    },
+    {
+      "start_time": 90,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Reich is opposed by Senate Foreign Relations Committee Chairman Joseph Biden and Western Hemisphere Subcommittee Chairman Christopher Dodd. The Democratic senators have refused to convene a hearing on the Reich nomination. The Bush administration could install Reich as its top Latin America diplomat through a recess appointment after congress adjourns. But congressional sources say that's unlikely because one of Wrike's responsibilities would be to report to the committee chairman who oppose his nomination. For Latino USA, I'm Richard Gonzales."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "42b0c466-fffc-42a6-9935-fb0ad37e3db2"
+    },
+    {
+      "start_time": 119,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In Texas, a federal court must now decide how to redraw the state's 32 congressional districts. Latino lawmakers and advocates are concerned that Hispanics may not be fairly represented. More from Latino USA's Deepa Donde. Every 10 years, lawmakers redraw legislative and congressional districts, reflecting the latest numbers from the US census. Latinos represent 60% of new Texans since 1990. But drawing district lines has been a difficult task for Texas. The state legislature was supposed to come up with a map this year, but failed to do so. So the legislative board, a group of high-ranking state officials, including the Attorney General John Cornyn, created a map that Latino advocates say does not make room for additional congressional seats."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Voter suppression",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Texas, United States",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "5b413559-771a-4852-a125-56e60148a343"
+    },
+    {
+      "start_time": 162,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In heavily Latino populated areas, observers like Andrés Tijerina, a Professor of History at Austin Community College, says the current situation could dilute the voting power of the growing Hispanic population. The first level of the trial at the state district court, the judge admitted that all the growth, all the new growth in Texas in the new census is Latino growth. And he yet found no new districts for Latinos. So is there a concern? Absolutely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Voter suppression",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Texas, United States",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "9bf1beb4-df84-43b9-947b-3458f28f2dfc"
+    },
+    {
+      "start_time": 195,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Attorney General Cornyn's office has responded to critics by saying that the legislative redistricting board's plan increases the number of Hispanic districts from 31 to 34. The board determines whether a district has a Hispanic majority, if its voting population is at least 50%. But Representative Pete Gallego, Chairman of the Mexican-American Legislative Caucus, believes that a better indicator is the percentage of registered voters with Spanish surnames. It takes us back even before 1990, where we were even 10 years ago. And doesn't account for any of the changes in Texas population, doesn't account for the strides forward that we've made. For Latino USA, I'm Deepa Donde in Austin, Texas. This is news from Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Voter suppression",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Hispanic Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Texas, United States",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "5386aab7-19eb-4661-909c-8faa69dc7052"
+    },
+    {
+      "start_time": 240,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The modest house in Miami, where young Cuban refugee Elián González lived for several months until he was dramatically removed by federal agents, has now been turned into a museum of sorts. Philip Davis explains. Elián's relatives long ago moved out of the house in Little Havana. But instead of selling it, Elián's uncle, Delphine González, has transformed the living room into a gallery of all things Elián, with pictures, paintings, and the gifts that were sent in by well-wishers. The boy's bedroom has been preserved intact. So too has the door that federal agents battered down when they raided the house in April 2000 in order to return the boy to his father."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "7244e4f3-3a86-4269-9554-c99842ed2740"
+    },
+    {
+      "start_time": 277,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miami Commissioner Tomás Regalado was there opening day. Elián's presence in Little Havana is something that the people can never forget, is one of the most important events for the Cuban exile community. For Latino USA, I'm Phillip Davis in Miami."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuban Americans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Miami, Florida, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Cuba",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "35478d28-551f-46a8-b34e-8d1cd5dad5ce"
+    },
+    {
+      "start_time": 296,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A man who transported a group of immigrants across the US-Mexico border into Arizona pled guilty to 25 counts of smuggling. 14 migrants died in the desert, adding to a record death toll this year. From KJZZ in Phoenix, Mark Moran reports. 20-year-old Jesus Lopez Ramos was scheduled to go on trial in November for smuggling more than two dozen migrants across the border into the scorching Arizona desert. Prosecutors say they won't seek the death penalty for Lopez Ramos, but he faces up to 10 years in prison for each count."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Arizona, United States (border)",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Sonoran Desert",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Phoenix, Arizona, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "02677e57-ec88-405f-822b-9f587b9bbfd3"
+    },
+    {
+      "start_time": 327,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lopez Ramos led the group into one of the most rugged and dangerous sections of the Sonoran Desert, an area known as the Devil's path. Temperatures on the barren desert floor routinely reach 130 degrees. He then told the migrants he'd be back with water. And that a major highway was just a few miles away. Instead, US Interstate 8 was more than 50 miles away. Lopez Ramos is scheduled to be sentenced early next year. For Latino USA, I'm Mark Moran in Phoenix. In Austin, Texas, I'm David Alvarez. You're listening to Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Border crossing",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "U.S.-Mexico border",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Arizona, United States (border)",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Sonoran Desert",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "f5d588a9-75b3-4fb3-9c90-2d18565cb15f"
+    },
+    {
+      "start_time": 360,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Maria Hinojosa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "93ced94f-f101-4845-8327-7e47a85b0317"
+    },
+    {
+      "start_time": 392,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They sold coffee to Wall Street workers in the morning, delivered their lunches, and at the end of the day, cleaned up offices in lower Manhattan's once most prestigious address, the World Trade Center. Undocumented immigrants from around the globe have long been an integral part of the labor force in New York City. And when hijackers commandeer two airplanes and crash them into the towers, these immigrants, everyone who worked there, suffered losses-- emotional, financial, and personal. Latino USA's Michelle García has our story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Manhattan, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "cc9bfcfa-0af9-482d-9f7a-1864c407b203"
+    },
+    {
+      "start_time": 426,
+      "end_time": 462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In an old wooden building in the Manhattan neighborhood of Chelsea, more than a dozen men and women are trying to put their lives back together. All are undocumented. All lost their jobs on September 11. Some 100,000 New Yorkers lost their jobs after the attack. An untold number were undocumented. They typically used fake IDs and assumed names. For this group, it takes a giant leap of faith to come out of the shadows and use their real names on paperwork that might get them some help."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Manhattan, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "b8637d1e-ab0f-4519-8d01-77f697526161"
+    },
+    {
+      "start_time": 462,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Omar Saracho, a volunteer for Asencion Tepeyac walks them through the process. This Jesuit organization works almost entirely with undocumented immigrants. That's why 26-year-old Benjamin Gonzalez hopes they will understand his situation. We don't have a Social Security. We cannot go to the hospital. Now, if you see, I have a problem with my eyes, but how can I-- how am I going to pay if I have no money. But I think the most important thing for all of us is to be together. Otherwise, nobody's going to help us. OK,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "61965841-6b73-4764-a867-de9c48bdf938"
+    },
+    {
+      "start_time": 503,
+      "end_time": 548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So far, 250 displaced workers have attended these meetings. It's one of the few places the undocumented can receive specialized attention. About half the group received their wages in cash, meaning they have no proof of employment, unless they can get their boss to agree to write a letter, proving they worked in and around what became ground zero. A man we're going to call Jaime says that's not always easy. The Mexicans come here to work. And we come with whatever legal papers we can get. I went to my boss and he asked me, what do you need? And I said, we needed proof that we worked there. And he said, all the proof he had was in the building, so everything was lost. And he tells me that they can get in trouble because of all the undocumented that work there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Discrimination in employment",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "839234df-1445-4180-9015-0ba3b7b72949"
+    },
+    {
+      "start_time": 548,
+      "end_time": 598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Undocumented immigrants are not eligible for federal assistance and unemployment compensation. Private charities and some government agencies will help families of the victims and displaced workers, regardless of immigration status. But it's a tricky process. Each organization has their own set of eligibility requirements. Most are located at the Family Assistance Center 102 García, Michelle 103 García, Michelle 104 García, Michelle at Pier 94. We will have an information form and it does ask if they're a US citizen or a citizen of wherever. The reason we ask that is because we are offering to help with travel and lodging. So if they do have family that's from another country, then we need to know that so that we know what to take care of to get them in visas, what have you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "7e793b2d-905b-437a-98a1-a5185cf6a441"
+    },
+    {
+      "start_time": 598,
+      "end_time": 632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brashear adds that they have seen very few undocumented families seeking help. At the same time, there is no apparent coordination with grassroots organizations like Tepeyac. The community group is still trying to help 65 families get to the United States. Families like that of Leobardo Lopez. He worked at the famous windows on the world atop the World Trade Center. The 41-year-old cook is presumed dead. His wife and children are still in Mexico. Lopez's uncle, Gerardo Pascual, still carries around flyers that feature Leobardo and a phone number."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Visas",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "e3d99bee-ed8b-4ad6-8ff6-3672534ceca9"
+    },
+    {
+      "start_time": 632,
+      "end_time": 659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pascual knows immigration officials have promised not to track down undocumented families, but he still worries. There's a little trepidation because we alleles, we don't know what the immigration is going to do afterwards. For now, Pascual concentrates on wading through the bureaucracy of getting a death certificate. And if he's lucky, recovering Leobardo's body to send back home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "1de85dc6-8ce2-4df2-9af3-12d816407f1f"
+    },
+    {
+      "start_time": 659,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When he's not on this mission, Gerardo Pascual says, his mind turns to his former co-workers and his nephew at windows on the world. I dream about the coworkers. At the beginning, I couldn't sleep, I wouldn't eat. The first two or three days, I couldn't eat. I lost 10, 15 pounds. Such grief is compounded with a sense of responsibility, many of these searchers feel, says Counselor Genoveva Garcia for their families here and abroad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "b165314f-0df1-463c-b026-3bb3edb30acc"
+    },
+    {
+      "start_time": 692,
+      "end_time": 719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm supposed to be the strong person here. And I'm supposed to deal with everything. And if I got here and if I been through all, this whatever, it was they had to go through when they came here. And right now, to say, I'm feeling weak, I'm feeling bad. And I don't know what to do with this. They feel very bad about this. It's very hard for them to ask for any help."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Medical care",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "f04d3f81-1e49-43bf-80e0-57d35898b8e9"
+    },
+    {
+      "start_time": 719,
+      "end_time": 753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Upstairs at Asencion Tepeyac, Director Joel McGowan, says if they could adjust their status, it would lessen their sense of alienation and insecurity. We are requesting the general and the permanent residency for the workers who were working there, and they lost their job and the citizenship for the people who are there now, or who are missing people. Their families could be receiving all the benefits if they are citizens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "8a882140-2087-429e-976e-30a1d74cae6f"
+    },
+    {
+      "start_time": 753,
+      "end_time": 801,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Back at the workshop, a woman that identifies herself only as Veronica tells her fellow Paisanos that together, they have power, that they keep New York City moving. With that, Omar Saracho concludes the session by urging them not to allow their immigration status to rob them of their own identity. What kind of world is this, where no one gets close and you don't know who you work with. Some people come and say, yeah, he worked with me. He was up there in the towers doing a delivery, but they don't even know their names. Quietly, the group resolves that in the spirit of rebuilding, they will try and heed his advice. For Latino USA, I'm Michelle García in New York City."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Illegal immigration",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign laborers",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "New York, New York, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "7adfefe6-b945-4f1c-98a7-36790e28ba73"
+    },
+    {
+      "start_time": 801,
+      "end_time": 845,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's looking less likely that the people of Vieques, Puerto Rico, will have a say in whether the United States Navy leaves their Island. 156 Hinojosa, Maria 157 Hinojosa, Maria 158 Hinojosa, Maria 159 Hinojosa, Maria 160 Hinojosa, Maria 161 Hinojosa, Maria 162 Hinojosa, Maria 163 Hinojosa, Maria Former President Clinton and the former governor of Puerto Rico set November 6 as the date for Vicenzas to vote on the issue. But those were different administrations in a different political climate. Latino USA's Ingrid Lobet has more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Vieques, Puerto Rico, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "United States--Relations--Puerto Rico",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "b90349f6-feba-4fe0-a76a-65cf94d0c741"
+    },
+    {
+      "start_time": 845,
+      "end_time": 867,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Vieques referendum is now wrapped in a tangle of legal appeals and amendments in Congress. The anti Navy movement on Vieques had been gaining steam for two years before September 11. High profile supporters were joining widely televised protests. Some were even going to jail. Ivan Roman is the San Juan Bureau Chief for the Orlando Sentinel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Vieques, Puerto Rico, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "United States--Relations--Puerto Rico",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "c9465161-4dec-43fd-91b5-f49141685874"
+    },
+    {
+      "start_time": 867,
+      "end_time": 890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The problem is, after the September 11 attacks, people have other priorities. Plus, some of the friends, some of the Vieques protesters or the people in congress, who favor the Navy leaving Vieques. May be a little bit gun shy now, because they don't want to appear as being antimilitary during a time when the US is in the middle of a war, of a new war against terrorism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Vieques, Puerto Rico, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "8da1eee8-ed41-4253-8b1b-f5c0709440b9"
+    },
+    {
+      "start_time": 890,
+      "end_time": 913,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Navy could soon return for a new round of maneuvers on Vieques, firing practice shells and dropping inert bombs on the East end of the small Island. The Navy says it's an essential training arena, especially now. Roberto Rabin is one of the most vocal opponents of the Navy's presence. He says since September 11, protesters have been rethinking their strategy and tactics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Vieques, Puerto Rico, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "United States--Relations--Puerto Rico",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "3c38f274-c515-4408-9075-717e8ade07ff"
+    },
+    {
+      "start_time": 913,
+      "end_time": 947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But he says, when Naval maneuvers resume, activists will again cut the fences and trespass on the Naval range. That is that civil disobedience action that forced two governors of Puerto Rico and two presidents of the United States to take the issue very seriously and for the first time in 60 years, to discuss dates for when the Navy will leave. If November 6 comes and goes and there's no set date for the Navy's departure, Ivan Roman and others say there will be protests in Puerto Rico, but it's hard to predict how vehement they'll be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Vieques, Puerto Rico, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "United States--Relations--Puerto Rico",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Voting",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "721e0cf8-4ed2-4b22-bc30-6c571de6a8f5"
+    },
+    {
+      "start_time": 947,
+      "end_time": 995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puerto Ricans are still weighing the events of September 11, he says, and gauging the United States response through the lens of their own history. You won't find tons and tons of US flags everywhere. It's not that people aren't behind the war effort. They are behind the war effort because, you know, many Puerto Ricans were attacked, too. But Puerto Ricans affinity or loyalty to the US or their feelings on whether or not they are American or not American or American second or what plane their loyalty to the US is, has always been complex. As the ripples of September 11 reach Puerto Rico, people there wait to see what the next few months will bring for the Island of Vieques and the rest of the world. For Latino USA, I'm Ingrid Lobet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Puerto Ricans",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Ethnic identity",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "United States--Relations--Puerto Rico",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Vieques, Puerto Rico, United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "bd317da6-b0d0-422d-a521-fc387b377588"
+    },
+    {
+      "start_time": 995,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Both Mexico and the United States are condemning the October 19 murder of a prominent human rights lawyer in Mexico City. The assassination of 38-year-old Digna Ochoa has rattled Mexico's human rights community and has international organizations calling for a full investigation. More now from Latino USA'S Franc Contreras from Mexico City."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Mexico City, Mexico",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "da546c44-34eb-45f6-a152-864a7c059bb2"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Human Rights Lawyer Digna Ochoa was shot at point blank range in the back of the head. Her body was found October 19. But President Vicente Fox waited three days before condemning the murder. Fox's delayed reaction disheartened many, who've gathered in protest in front of the interior ministry. This woman jumped on top of a van and told the crowd that criminals in Mexico are attacking human rights workers with impunity now that the world is focusing on the war against terrorism. She called the Ochoa murder itself a brutal act of terrorism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico City, Mexico",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "79b9fbb3-976f-4c31-85d3-80e9b7b2d5a3"
+    },
+    {
+      "start_time": 1069,
+      "end_time": 1119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Investigators say Ochoa was tortured before she was killed. The gunman left a message threatening that the same will happen to other human rights workers at the Miguel Agustin Pro Human Rights Center in Mexico City, where Ochoa worked until last year. Director Edgar Cortez says the center has been investigating cases involving alleged violations by members of the military and police. We've had cases where members of the armed forces are responsible for torturing environmental activists in Guerrero state. There's the case of 11 farmers massacred by the security forces. Again, members of the army appear to be responsible."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Police brutality",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Guerrero, Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Mexico City, Mexico",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "362e26db-5cbb-4ad2-b0c3-97983acaa62f"
+    },
+    {
+      "start_time": 1119,
+      "end_time": 1153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Digna Ochoa took on these and many of the most difficult human rights cases in Mexico. Rights organizations here and abroad point out that she had been receiving death threats since 1995, when Ochoa first began defending Zapatista rebels in Chiapas. She was at one point kidnapped and tortured, yet the case was later dropped by the previous government. One of the Zapatista supporters who Ochoa represented says, nothing has changed under the new Fox government."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Chiapas, Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "c8f17eb0-5e8d-47ea-837e-a256cca61830"
+    },
+    {
+      "start_time": 1153,
+      "end_time": 1186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Zapatista political prisoners are still in jail. The indigenous environmentalists are still in jail. People accused of participating in guerrilla movements are prisoners. One of the top human rights defenders, an army general, is a prisoner. Nothing has changed. In the last days of her life, her colleagues say Digna Ochoa made the same observation, but she was already used to fearing for her life. So as the death threats mounted, Ochoa reluctantly decided last year to leave Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "a125f014-a21f-4050-97dc-4f80ae3a2b93"
+    },
+    {
+      "start_time": 1186,
+      "end_time": 1209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She moved to Washington, DC, and worked at the Center for Justice and International Law. Attorney Roxanne Althaus was one of Ochoa's friends there. She was very frustrated. She was very frustrated as many human rights defenders are when they're first forced to leave, when they're exiled, when they're in exile from their country because they feel like the choice has been made for them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "52093ee6-953b-44c2-9666-26ced53494d0"
+    },
+    {
+      "start_time": 1209,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Vicente Fox took office, he promised that human rights atrocities in Mexico were a thing of the past. Ochoa decided to return to Mexico and continue defending political prisoners and indigenous activists. Now, Ochoa's murder has resurrected fears that it's once again dangerous to be a human rights worker in Mexico. For Latino USA, this is Franc Contreras in Mexico City."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Mexico City, Mexico",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "f460b0a4-9205-4d4a-b5c4-10ed7454e237"
+    },
+    {
+      "start_time": 1233,
+      "end_time": 1277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The international outrage over the murder of human rights lawyer Digna Ochoa is just one of the many political pressures facing Mexican President Vicente Fox. Joining us now to talk about the political pressures facing president Vicente Fox is political analyst Denise Dresser, Professor at the Instituto Tecnológico Autónomo de México in Mexico City. Now, Denise, you recently published a scathing article in the Mexican Weekly Proceso that was extremely critical of the Fox administration. You called his government a government of window dressing. And you said that he was a showboat president. But I understand that you at one point supported his election. So why are you so critical of him now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Mexico City, Mexico",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "b95bd5a8-f642-438c-bc13-646d1406c2f3"
+    },
+    {
+      "start_time": 1277,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think many of us supported ousting the PRI from power and had very high expectations for Vicente Fox. I don't think I'd call the article scathing. I'd call it realistic. The fact is, Vicente Fox has not been up to the challenge that he has faced since he arrived into office on a multiplicity of fronts, the last one being a trip that he scheduled to Europe in the midst of what is now an international war against terrorism. It feels as though his attention has deviated towards less important issues, such as parading around Europe with his wife and meeting the pope and going to fancy dinners in the midst of what has become a very difficult economic and political situation in Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "5f088596-5878-4d34-8139-4a829f9c9bc8"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, when he was running for president, Fox promised to create a million new jobs a year. But with the Mexican economy, really going into nosedive in the wake of the slowing US economy, critics say that, he doesn't have an economic plan. Do you agree? Well, I think he has many plans. The problem that he's faced has been putting those plans into concrete action."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "68cbfef5-a395-4768-96b8-483bab1fc5dd"
+    },
+    {
+      "start_time": 1347,
+      "end_time": 1398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The terrorist attacks in New York and Washington happened just days after a state visit by Fox, where President Bush called the relationship with Mexico the most important. How is the Fox presidency and Mexico going to be affected by the fact that these days, Mexico really isn't much in the US radar, at least publicly, it's not? I think it's been a major blow to Mexico's foreign policy agenda in the short term. As you know that the migratory accord with the US was on the bargaining table. It seemed that an accord might be reached sometime even this year, as Fox himself had pushed for during his visit to Washington. And now, Mexican-US relations have gone back to normal. In other words, Mexico is a third-tier priority at times a second-tier priority, but certainly, not a first-tier priority."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Foreign relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "International relations",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        },
+        {
+          "tag": "Washington, D.C., United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "9f28ef9f-afbf-41f8-8c00-1be2acc1ef18"
+    },
+    {
+      "start_time": 1398,
+      "end_time": 1441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, what do you say, Denise, to those who, in defense of President Fox, say that to take over this presidency in this moment in history from the PRI after seven decades of much institutional corruption, and to expect sweeping changes to occur in a year is just impossible for anyone to do? I would say that Vicente Fox is one of the hardest political jobs in Latin America, precisely because of the legacy of the past. But I also believe that Mexico had a window of opportunity, given the way in which Vicente Fox was elected, the expectations that he generated, the goodwill that he generated. And that window of opportunity has been closing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "cee24ab2-24a5-4303-a22c-5be7b8fd38b5"
+    },
+    {
+      "start_time": 1441,
+      "end_time": 1496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Throughout the past year, we've witnessed a tension within the Mexican cabinet that has undermined the prospects for reform on many fronts. And that tension is the product of two competing visions of what Mexico should do in the aftermath of the PRI. There are those who believe, this is the time to be aggressive, to push change forward. And there are those who believe, let's be incrementalist, let's be more pragmatic. And I don't think that Fox has made up his mind. And this zigzagging, this almost political schizophrenia, I think, has hampered the prospects for reform at many levels. Well, thanks very much for speaking with us. Denise Dresser is a Mexican political scientist and visiting fellow of the Pacific Council on International Policy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Politics and government",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Government policy",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic--Broad"
+        }
+      ],
+      "uuid": "bbd33246-947b-49c0-8cdd-bb1a7cdc0637"
+    },
+    {
+      "start_time": 1496,
+      "end_time": 1523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Bush administration's plan to use all means at its disposal to root out suspected terrorists has sparked a debate in this country over the use of military force in resolving conflicts. For Youth Radio's Anita Gonzalez, it's more than just an intellectual debate. The US military campaign in Afghanistan is changing the way she does her job as a violence prevention advocate. She's learned in her life that violence begets violence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "San Diego, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "fab4192f-6dd9-4ad2-b7cd-f5b63a75464c"
+    },
+    {
+      "start_time": 1523,
+      "end_time": 1559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is a story about a little girl who lives in a really bad neighborhood. Every day on her way to school, she sees things that no child should ever have to see or go through. One day, as a little girl walks through her neighborhood, she finds a gun lying on the ground. She remembers that her mother told her guns kill people, so she drops it and continues on her way. Further down the road, she sees a group of people doing drugs. Next, she sees her brother being brutally beaten by his own friends. She realizes his life now belongs to a gang."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject--Emigration and Immigration"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        }
+      ],
+      "uuid": "10da259e-96ea-4e30-a106-695daa4006e2"
+    },
+    {
+      "start_time": 1559,
+      "end_time": 1586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Back at home, as the little girl walks up the squeaky stairs to the apartment, she hears two voices yelling at each other. Then bam, she hears a very loud noise outside. Running to her window, she sees the bright lights of an ambulance and realizes somebody has just been shot and killed. Well, this little girl was me. I work as a violence prevention activist now because I want to be a role model to kids in similar environments."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Civil rights",
+          "category": "Subject--Emigration and Immigration"
+        }
+      ],
+      "uuid": "c6599e26-182b-49bf-bec3-97138ac5e52c"
+    },
+    {
+      "start_time": 1586,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This September 11, my job became more important than ever. All my life, I have experienced and seen violence, but never anything like this. All I could think at that point is how hard I've tried to prevent things like this occurring, but they still happen. Now that we are at war, I think about what would happen if a gang member comes up to me and says he's planning to kill his enemy from a rival gang. If I tell him not to, to be nonviolent instead, will he respond by telling me, well, if the United States can go into war to kill the enemy, why can't I?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "September 11 Terrorist Attacks, 2001",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Terrorism",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        }
+      ],
+      "uuid": "9a9cf0cd-0690-4e60-bdd2-d2f8d60eeb3d"
+    },
+    {
+      "start_time": 1628,
+      "end_time": 1653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I feel helpless. I still have a dream of life perfect on Earth. Being able to watch the news with nothing about people being murdered. I won't lock the doors. And it would be a place where I could love my kids growing up. Anita Gonzalez is a student in the Eye Program in Northern San Diego. She comes to us from Youth Radio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Storytelling",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "Military policy",
+          "category": "Subject--International Relations"
+        },
+        {
+          "tag": "Families",
+          "category": "Subject--Cultural Traditions"
+        },
+        {
+          "tag": "San Diego, California, United States",
+          "category": "Geographic--Specific"
+        }
+      ],
+      "uuid": "8ec9863e-d8d5-4755-9886-c9491b3ac25e"
+    },
+    {
+      "start_time": 1653,
+      "end_time": 1677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And for this week, this has been Latino USA, the radio journal of news and culture. Gracias por escucharme, thanks for listening. Latino USA was produced by Alex Avila, Walter Morgan, and Executive Producer Maria Martin. The contributing editor is Richard Gonzalez. We had helped this week from Ingrid Lopez, Deepa Donde, Andrea Valdez, Dean Graber, Franc Contreras, Fernando Velasquez, and Chris Sakas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "24f04bc9-38c6-4f1c-8e1a-5e723f7d2f8f"
+    },
+    {
+      "start_time": 1677,
+      "end_time": 1725,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Further information about Latino USA is available on the web @latinousa.org. You can also call our listener comment line at 1-800-535-5533. And our email address is LUSA@npr.org. This week's program is number 446. Support for Latino USA comes from the Ford Foundation and the Center for Mexican-American studies and KUT Radio 351 MUSIC, DRAMATIC 352 MUSIC, DRAMATIC 353 MUSIC, DRAMATIC at the University of Texas at Austin. Additional support from the William and Flora Hewlett Foundation, the National Endowment for the Arts, and national Public Radio, whose contributors include the John D and Catherine T MacArthur Foundation. I'm Maria Hinojosa. Join us again next week for another edition of Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "97918596-0268-4afe-8802-5ad6ad1c8910"
+    },
+    {
+      "start_time": 1725,
+      "end_time": 1744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NPR, National Public Radio."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7323ab33-dec9-4677-ba05-68873753226b"
+    }
+  ],
+  "set": "Default",
+  "event_id": "2d330e50-bb73-470c-874c-a0926e6faaa8",
+  "source_id": "7b4e921f-1436-47b6-8cbc-1ebaed152ce4"
+}
