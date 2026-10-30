@@ -4,12 +4,11 @@
   "created_by": "rsalci25",
   "title": "Episode 437",
   "slug": "episode-437",
-  "updated_at": "2026-10-30T01:09:19.730Z",
+  "updated_at": "2026-10-30T03:34:07.468Z",
   "updated_by": "rsalci25",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "53061ac2-b472-4a52-b515-28c4b99b5b23"
-  },
-  "parent": "dfdf05c6-16f9-4ee3-924f-8ee8ea461017"
+  }
 }
